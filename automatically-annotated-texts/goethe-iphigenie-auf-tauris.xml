@@ -173,7 +173,7 @@
         </div>
         <div type="scene">
           <head>Zweiter Auftritt</head>
-          <stage type="entrance" who="#iphigenie #arkas">Iphigenie. Arkas.</stage>
+          <stage type="entrance" who="#arkas #iphigenie">Iphigenie. Arkas.</stage>
           <sp who="#arkas">
             <speaker>ARKAS.</speaker>
             <lg>
@@ -1620,7 +1620,7 @@
         <head>Dritter Aufzug</head>
         <div type="scene">
           <head>Erster Auftritt</head>
-          <stage type="entrance" who="#iphigenie #orest">Iphigenie. Orest.</stage>
+          <stage type="entrance" who="#orest #iphigenie">Iphigenie. Orest.</stage>
           <sp who="#iphigenie">
             <speaker>IPHIGENIE.</speaker>
             <lg>
@@ -2229,7 +2229,7 @@
         </div>
         <div type="scene">
           <head>Dritter Auftritt</head>
-          <stage type="entrance" who="#pylades #iphigenie #orest">Orest. Iphigenie. Pylades.</stage>
+          <stage type="entrance" who="#pylades #orest #iphigenie">Orest. Iphigenie. Pylades.</stage>
           <sp who="#orest">
             <speaker>OREST.</speaker>
             <lg>
@@ -2381,7 +2381,7 @@
         </div>
         <div type="scene">
           <head>Zweiter Auftritt</head>
-          <stage type="entrance" who="#iphigenie #arkas">Iphigenie. Arkas.</stage>
+          <stage type="entrance" who="#arkas #iphigenie">Iphigenie. Arkas.</stage>
           <sp who="#arkas">
             <speaker>ARKAS.</speaker>
             <lg>
@@ -3047,7 +3047,7 @@
         <head>Fünfter Aufzug</head>
         <div type="scene">
           <head>Erster Auftritt</head>
-          <stage type="entrance" who="#thoas #arkas">Thoas. Arkas.</stage>
+          <stage type="entrance" who="#arkas #thoas">Thoas. Arkas.</stage>
           <sp who="#arkas">
             <speaker>ARKAS.</speaker>
             <lg>
@@ -3520,7 +3520,7 @@
         </div>
         <div type="scene">
           <head>Fünfter Auftritt</head>
-          <stage type="entrance" who="#pylades #arkas #orest #iphigenie #thoas">Die Vorigen. Pylades. Bald nach ihm Arkas. Beide mit bloßen Schwertern.</stage>
+          <stage type="entrance" who="#arkas #pylades #orest #iphigenie #thoas">Die Vorigen. Pylades. Bald nach ihm Arkas. Beide mit bloßen Schwertern.</stage>
           <sp who="#pylades">
             <speaker>PYLADES.</speaker>
             <lg>
@@ -3562,7 +3562,7 @@
         </div>
         <div type="scene">
           <head>Sechster Auftritt</head>
-          <stage type="entrance" who="#iphigenie #orest #thoas">Iphigenie. Thoas. Orest.</stage>
+          <stage type="entrance" who="#orest #iphigenie #thoas">Iphigenie. Thoas. Orest.</stage>
           <sp who="#iphigenie">
             <speaker>IPHIGENIE.</speaker>
             <lg>

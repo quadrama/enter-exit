@@ -255,7 +255,7 @@
         <head>Erster Aufzug.</head>
         <div type="scene">
           <head>Erster Auftritt.</head>
-          <stage type="entrance" who="#estrithe #ulfo">Ulfo, Estrithe.</stage>
+          <stage type="entrance" who="#ulfo #estrithe">Ulfo, Estrithe.</stage>
           <sp who="#ulfo">
             <speaker>ULFO.</speaker>
             <lg>
@@ -396,7 +396,7 @@
         </div>
         <div type="scene">
           <head>Zweyter Auftritt.</head>
-          <stage type="entrance" who="#estrithe #gunilde">Gunilde, Estrithe.</stage>
+          <stage type="entrance" who="#gunilde #estrithe">Gunilde, Estrithe.</stage>
           <sp who="#gunilde">
             <speaker>GUNILDE.</speaker>
             <lg>
@@ -573,7 +573,7 @@
         </div>
         <div type="scene">
           <head><pb n="180"/> Dritter Auftritt.</head>
-          <stage type="entrance" who="#estrithe #godewin">Godewin, Estrithe.</stage>
+          <stage type="entrance" who="#godewin #estrithe">Godewin, Estrithe.</stage>
           <sp who="#godewin">
             <speaker>GODEWIN.</speaker>
             <lg>
@@ -782,7 +782,7 @@
         </div>
         <div type="scene">
           <head><pb n="183"/> Zweyter Auftritt.</head>
-          <stage type="entrance" who="#estrithe #godewin #canut">Estrithe, Canut, Godewin.</stage>
+          <stage type="entrance" who="#godewin #canut #estrithe">Estrithe, Canut, Godewin.</stage>
           <sp who="#estrithe">
             <speaker>ESTRITHE.</speaker>
             <lg>
@@ -930,7 +930,7 @@
         </div>
         <div type="scene">
           <head><pb n="185"/> Dritter Auftritt.</head>
-          <stage type="entrance" who="#estrithe #godewin">Godewin, Estrithe.</stage>
+          <stage type="entrance" who="#godewin #estrithe">Godewin, Estrithe.</stage>
           <sp who="#estrithe">
             <speaker>ESTRITHE.</speaker>
             <lg>
@@ -1017,7 +1017,7 @@
         </div>
         <div type="scene">
           <head>Vierter Auftritt.</head>
-          <stage type="entrance" who="#estrithe #godewin #ulfo">Godewin, Ulfo, Estrithe.</stage>
+          <stage type="entrance" who="#godewin #ulfo #estrithe">Godewin, Ulfo, Estrithe.</stage>
           <sp who="#godewin">
             <speaker>GODEWIN.</speaker>
             <lg>
@@ -1213,7 +1213,7 @@
         </div>
         <div type="scene">
           <head>Fünfter Auftritt.</head>
-          <stage type="entrance" who="#estrithe #ulfo">Ulfo, Estrithe.</stage>
+          <stage type="entrance" who="#ulfo #estrithe">Ulfo, Estrithe.</stage>
           <sp who="#estrithe">
             <speaker>ESTRITHE.</speaker>
             <lg>
@@ -1377,7 +1377,7 @@
         <head>Dritter Aufzug.</head>
         <div type="scene">
           <head>Erster Auftritt.</head>
-          <stage type="entrance" who="#estrithe #canut #haqvin">Canut, Estrithe, Haqvin.</stage>
+          <stage type="entrance" who="#canut #estrithe #haqvin">Canut, Estrithe, Haqvin.</stage>
           <sp who="#estrithe">
             <speaker>ESTRITHE.</speaker>
             <lg>
@@ -1453,7 +1453,7 @@
         </div>
         <div type="scene">
           <head><pb n="193"/> Zweyter Auftritt.</head>
-          <stage type="entrance" who="#estrithe #canut">Canut, Estrithe.</stage>
+          <stage type="entrance" who="#canut #estrithe">Canut, Estrithe.</stage>
           <sp who="#estrithe">
             <speaker>ESTRITHE.</speaker>
             <lg>
@@ -1580,7 +1580,7 @@
         </div>
         <div type="scene">
           <head>Dritter Auftritt.</head>
-          <stage type="entrance" who="#ulfo #canut">Canut, Ulfo.</stage>
+          <stage type="entrance" who="#canut #ulfo">Canut, Ulfo.</stage>
           <sp who="#canut">
             <speaker>CANUT.</speaker>
             <lg>
@@ -1758,7 +1758,7 @@
         </div>
         <div type="scene">
           <head>Vierter Auftritt.</head>
-          <stage type="entrance" who="#godewin #ulfo #canut">Canut, Ulfo, Godewin.</stage>
+          <stage type="entrance" who="#godewin #canut #ulfo">Canut, Ulfo, Godewin.</stage>
           <sp who="#canut">
             <speaker>CANUT.</speaker>
             <lg>
@@ -1940,7 +1940,7 @@
         </div>
         <div type="scene">
           <head>Zweyter Auftritt.</head>
-          <stage type="entrance" who="#estrithe #ulfo">Ulfo, Estrithe.</stage>
+          <stage type="entrance" who="#ulfo #estrithe">Ulfo, Estrithe.</stage>
           <sp who="#ulfo">
             <speaker>ULFO.</speaker>
             <lg>
@@ -2214,7 +2214,7 @@
         </div>
         <div type="scene">
           <head><pb n="205"/> Vierter Auftritt.</head>
-          <stage type="entrance" who="#ulfo #haqvin #godschalk #godewin #canut">Canut, Godewin, Haqvin, Ulfo, Godschalk.</stage>
+          <stage type="entrance" who="#godewin #godschalk #canut #haqvin #ulfo">Canut, Godewin, Haqvin, Ulfo, Godschalk.</stage>
           <sp who="#ulfo">
             <speaker>ULFO.</speaker>
             <lg>
@@ -2388,7 +2388,7 @@
         </div>
         <div type="scene">
           <head><pb n="207"/> Fünfter Auftritt.</head>
-          <stage type="entrance" who="#godewin #godschalk #canut">Canut, Godewin, Godschalk.</stage>
+          <stage type="entrance" who="#godewin #canut #godschalk">Canut, Godewin, Godschalk.</stage>
           <sp who="#godewin">
             <speaker>GODEWIN.</speaker>
             <l>Herr! laß, eh du ihn strafst, doch deinen Zorn verrauchen.</l>
@@ -2438,7 +2438,7 @@
         <head>Fünfter Aufzug.</head>
         <div type="scene">
           <head>Erster Auftritt.</head>
-          <stage type="entrance" who="#estrithe #godewin">Godewin, Estrithe.</stage>
+          <stage type="entrance" who="#godewin #estrithe">Godewin, Estrithe.</stage>
           <sp who="#godewin">
             <speaker>GODEWIN.</speaker>
             <lg>
@@ -2536,7 +2536,7 @@
         </div>
         <div type="scene">
           <head>Zweyter Auftritt.</head>
-          <stage type="entrance" who="#estrithe #godewin #ulfo">Estrithe, Godewin, Ulfo von Wache begleitet.</stage>
+          <stage type="entrance" who="#godewin #ulfo #estrithe">Estrithe, Godewin, Ulfo von Wache begleitet.</stage>
           <sp who="#ulfo">
             <speaker>ULFO.</speaker>
             <lg>
@@ -2786,7 +2786,7 @@
         </div>
         <div type="scene">
           <head>Dritter Auftritt.</head>
-          <stage type="entrance" who="#estrithe #godewin #ulfo #canut">Canut, Estrithe, Godewin, Ulfo.</stage>
+          <stage type="entrance" who="#godewin #canut #estrithe #ulfo">Canut, Estrithe, Godewin, Ulfo.</stage>
           <sp who="#ulfo">
             <speaker>ULFO.</speaker>
             <lg>
@@ -2889,7 +2889,7 @@
         </div>
         <div type="scene">
           <head><pb n="214"/> Vierter Auftritt.</head>
-          <stage type="entrance" who="#estrithe #godewin #canut">Estrithe, Canut, Godewin.</stage>
+          <stage type="entrance" who="#godewin #canut #estrithe">Estrithe, Canut, Godewin.</stage>
           <sp who="#estrithe">
             <speaker>ESTRITHE.</speaker>
             <l>Ach! eilt man denn so schnell, dein Urtheil zu vollführen?</l>
@@ -2928,7 +2928,7 @@
         </div>
         <div type="scene">
           <head>Fünfter Auftritt.</head>
-          <stage type="entrance" who="#estrithe #godewin #godschalk #canut">Canut, Godschalk, Godewin, Estrithe.</stage>
+          <stage type="entrance" who="#godewin #canut #estrithe #godschalk">Canut, Godschalk, Godewin, Estrithe.</stage>
           <sp who="#godschalk">
             <speaker>GODSCHALK.</speaker>
             <lg>

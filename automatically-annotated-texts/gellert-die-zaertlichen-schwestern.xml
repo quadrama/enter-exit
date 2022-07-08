@@ -297,7 +297,7 @@
         </div>
         <div type="scene">
           <head>Zweiter Auftritt</head>
-          <stage type="entrance" who="#lottchen #cleon #siegmund">Cleon. Lottchen. Siegmund.</stage>
+          <stage type="entrance" who="#lottchen #siegmund #cleon">Cleon. Lottchen. Siegmund.</stage>
           <sp who="#lottchen">
             <speaker>LOTTCHEN.</speaker>
             <p>Wie? Sie haben mich reden hören?</p>
@@ -526,7 +526,7 @@
         </div>
         <div type="scene">
           <head>Sechster Auftritt</head>
-          <stage type="entrance" who="#damis #julchen">Julchen. Damis.</stage>
+          <stage type="entrance" who="#julchen #damis">Julchen. Damis.</stage>
           <sp who="#julchen">
             <speaker>JULCHEN.</speaker>
             <p>Ich bin meiner Schwester herzlich gut; aber ich würde es noch mehr sein, wenn sie
@@ -1180,7 +1180,7 @@
         <head>Zweiter Aufzug</head>
         <div type="scene">
           <head>Erster Auftritt</head>
-          <stage type="entrance" who="#cleon #julchen">Cleon. Julchen.</stage>
+          <stage type="entrance" who="#julchen #cleon">Cleon. Julchen.</stage>
           <sp who="#cleon">
             <speaker>CLEON.</speaker>
             <p>Du wirst doch wissen, ob du ihm gut bist?</p>
@@ -1376,7 +1376,7 @@
         </div>
         <div type="scene">
           <head>Zweiter Auftritt</head>
-          <stage type="entrance" who="#damis #julchen">Julchen. Damis.</stage>
+          <stage type="entrance" who="#julchen #damis">Julchen. Damis.</stage>
           <sp who="#damis">
             <speaker>DAMIS.</speaker>
             <p>Darf ich mit Ihnen reden, mein schönes Kind?</p>
@@ -1587,7 +1587,7 @@
         </div>
         <div type="scene">
           <head>Vierter Auftritt</head>
-          <stage type="entrance" who="#damis #julchen">Julchen. Damis.</stage>
+          <stage type="entrance" who="#julchen #damis">Julchen. Damis.</stage>
           <sp who="#julchen">
             <speaker>JULCHEN.</speaker>
             <p>War nicht meine Schwester bei Ihnen? Wo ist sie?</p>
@@ -2084,7 +2084,7 @@
         </div>
         <div type="scene">
           <head>Dreizehnter Auftritt</head>
-          <stage type="entrance" who="#siegmund #julchen #der_magister">Siegmund. Julchen. Der Magister.</stage>
+          <stage type="entrance" who="#siegmund #der_magister #julchen">Siegmund. Julchen. Der Magister.</stage>
           <sp who="#julchen">
             <speaker>JULCHEN</speaker>
             <stage>zu Siegmund.</stage>
@@ -2252,7 +2252,7 @@
         </div>
         <div type="scene">
           <head>Fünfzehnter Auftritt</head>
-          <stage type="entrance" who="#der_magister #cleon #siegmund">Der Magister. Cleon. Siegmund.</stage>
+          <stage type="entrance" who="#siegmund #der_magister #cleon">Der Magister. Cleon. Siegmund.</stage>
           <sp who="#cleon">
             <speaker>CLEON.</speaker>
             <p>Nun, mein lieber Magister, was spricht Julchen? Ich denke, sie wird sich wohl ohne
@@ -2436,7 +2436,7 @@
         </div>
         <div type="scene">
           <head>Neunzehnter Auftritt</head>
-          <stage type="entrance" who="#lottchen #damis #julchen">Lottchen. Julchen. Damis.</stage>
+          <stage type="entrance" who="#lottchen #julchen #damis">Lottchen. Julchen. Damis.</stage>
           <sp who="#lottchen">
             <speaker>LOTTCHEN</speaker>
             <stage>zu Damis.</stage>
@@ -2555,7 +2555,7 @@
         </div>
         <div type="scene">
           <head>Zwanzigster Auftritt</head>
-          <stage type="entrance" who="#cleon #lottchen #damis #julchen">Die Vorigen. Cleon.</stage>
+          <stage type="entrance" who="#cleon #lottchen #julchen #damis">Die Vorigen. Cleon.</stage>
           <sp who="#cleon">
             <speaker>CLEON.</speaker>
             <p>Ihr losen Kinder, wo bleibt ihr denn? Soll sich der Kaffee selber einschenken?</p>
@@ -2585,7 +2585,7 @@
         </div>
         <div type="scene">
           <head>Einundzwanzigster Auftritt</head>
-          <stage type="entrance" who="#cleon #julchen">Cleon. Julchen.</stage>
+          <stage type="entrance" who="#julchen #cleon">Cleon. Julchen.</stage>
           <sp who="#cleon">
             <speaker>CLEON.</speaker>
             <p>Nun, meine Tochter, wie steht es mit deinem Herzen? Es muß dir doch lieb sein, daß du
@@ -2796,7 +2796,7 @@
         </div>
         <div type="scene">
           <head>Zweiter Auftritt</head>
-          <stage type="entrance" who="#damis #julchen">Julchen. Damis.</stage>
+          <stage type="entrance" who="#julchen #damis">Julchen. Damis.</stage>
           <sp who="#julchen">
             <speaker>JULCHEN</speaker>
             <stage type="entrance" who="#julchen">die ihn in der Hitze nicht kommen sieht.</stage>
@@ -2833,7 +2833,7 @@
         </div>
         <div type="scene">
           <head>Dritter Auftritt</head>
-          <stage type="entrance" who="#lottchen #damis #julchen">Die Vorigen. Lottchen.</stage>
+          <stage type="entrance" who="#lottchen #julchen #damis">Die Vorigen. Lottchen.</stage>
           <sp who="#damis">
             <speaker>DAMIS</speaker>
             <stage>zu Lottchen.</stage>
@@ -2970,7 +2970,7 @@
               Julchens Entschluß hört! Doch ich sehe den Herrn Vormund kommen. Gehn Sie, ich will
               das Vergnügen haben, diesem rechtschaffenen Mann, der mir heute die freudige Post
               gebracht hat, auch die erste Nachricht von der Gewißheit Ihrer beiderseitigen Liebe zu
-              geben. <stage type="exit" who="#damis #julchen">Julchen und Damis gehn ab.</stage></p>
+              geben. <stage type="exit" who="#julchen #damis">Julchen und Damis gehn ab.</stage></p>
           </sp>
         </div>
         <div type="scene">
@@ -3232,7 +3232,7 @@
         </div>
         <div type="scene">
           <head>Neunter Auftritt</head>
-          <stage type="entrance" who="#damis #julchen">Julchen. Damis.</stage>
+          <stage type="entrance" who="#julchen #damis">Julchen. Damis.</stage>
           <sp who="#julchen">
             <speaker>JULCHEN.</speaker>
             <p>Wo bleibt Lottchen? Hat sie gar meine Untreue erfahren? Ich will sie sicher machen.
@@ -3327,7 +3327,7 @@
         </div>
         <div type="scene">
           <head>Zehnter Auftritt</head>
-          <stage type="entrance" who="#simon #damis #julchen">Die Vorigen. Simon.</stage>
+          <stage type="entrance" who="#simon #julchen #damis">Die Vorigen. Simon.</stage>
           <sp who="#simon">
             <speaker>SIMON.</speaker>
             <p>Ich stehe die größte Qual aus. Unsere Absicht mit dem Briefe schlägt leider fehl. Sie
@@ -4020,7 +4020,7 @@
         </div>
         <div type="scene">
           <head>Neunzehnter Auftritt</head>
-          <stage type="entrance" who="#lottchen #cleon #julchen">Julchen. Lottchen. Cleon.</stage>
+          <stage type="entrance" who="#lottchen #julchen #cleon">Julchen. Lottchen. Cleon.</stage>
           <sp who="#cleon">
             <speaker>CLEON.</speaker>
             <p>Nun, meine Kinder, wenn euch nichts weiter aufhält: so sähe ich's gern, wenn ihr die
@@ -4049,7 +4049,7 @@
         </div>
         <div type="scene">
           <head>Zwanzigster Auftritt</head>
-          <stage type="entrance" who="#siegmund #damis #der_magister #simon #lottchen #cleon #julchen">Die Vorigen. Siegmund. Simon. Damis. Der Magister.</stage>
+          <stage type="entrance" who="#siegmund #der_magister #damis #simon #lottchen #julchen #cleon">Die Vorigen. Siegmund. Simon. Damis. Der Magister.</stage>
           <sp who="#cleon">
             <speaker>CLEON.</speaker>
             <p>Endlich erlebe ich die Freude, die ich mir lange gewünscht habe. Ich will Sie, meine

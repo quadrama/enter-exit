@@ -216,7 +216,7 @@
         </div>
         <div type="scene">
           <head>Zweiter Auftritt</head>
-          <stage type="entrance" who="#der_prinz #conti">Conti. Der Prinz.</stage>
+          <stage type="entrance" who="#conti #der_prinz">Conti. Der Prinz.</stage>
           <sp who="#der_prinz">
             <speaker>DER PRINZ.</speaker>
             <p>Guten Morgen, Conti. Wie leben Sie? Was macht die Kunst?</p>
@@ -288,7 +288,7 @@
         </div>
         <div type="scene">
           <head>Vierter Auftritt</head>
-          <stage type="entrance" who="#der_prinz #conti">Der Prinz. Conti, mit den Gemälden, wovon er das eine verwandt gegen einen Stuhl
+          <stage type="entrance" who="#conti #der_prinz">Der Prinz. Conti, mit den Gemälden, wovon er das eine verwandt gegen einen Stuhl
             lehnet.</stage>
           <sp who="#conti">
             <speaker>CONTI</speaker>
@@ -978,7 +978,7 @@
         <stage>Die Szene, ein Saal in dem Hause der Galotti.</stage>
         <div type="scene">
           <head>Erster Auftritt</head>
-          <stage type="entrance" who="#pirro #claudia">Claudia Galotti. Pirro.</stage>
+          <stage type="entrance" who="#claudia #pirro">Claudia Galotti. Pirro.</stage>
           <sp who="#claudia">
             <speaker>CLAUDIA</speaker>
             <stage type="entrance" who="#pirro">im Heraustreten zu Pirro, der von der andern Seite hereintritt.</stage>
@@ -1003,7 +1003,7 @@
         </div>
         <div type="scene">
           <head>Zweiter Auftritt</head>
-          <stage type="entrance" who="#odoardo #pirro #claudia">Odoardo Galotti, und die Vorigen.</stage>
+          <stage type="entrance" who="#odoardo #claudia #pirro">Odoardo Galotti, und die Vorigen.</stage>
           <sp who="#odoardo">
             <speaker>ODOARDO.</speaker>
             <p>Guten Morgen, meine Liebe! – Nicht wahr, das heißt überraschen?</p>
@@ -1243,7 +1243,7 @@
         </div>
         <div type="scene">
           <head>Vierter Auftritt</head>
-          <stage type="entrance" who="#pirro #claudia #odoardo">Odoardo und Claudia Galotti. Pirro.</stage>
+          <stage type="entrance" who="#odoardo #pirro #claudia">Odoardo und Claudia Galotti. Pirro.</stage>
           <sp who="#odoardo">
             <speaker>ODOARDO.</speaker>
             <p>Sie bleibt mir zu lang' aus –</p>
@@ -1747,7 +1747,7 @@
         </div>
         <div type="scene">
           <head>Achter Auftritt</head>
-          <stage type="entrance" who="#appiani #claudia">Graf Appiani. Claudia Galotti.</stage>
+          <stage type="entrance" who="#claudia #appiani">Graf Appiani. Claudia Galotti.</stage>
           <sp who="#appiani">
             <speaker>APPIANI</speaker>
             <stage>indem er ihr mit einer niedergeschlagnen Miene nachsieht.</stage>
@@ -1798,7 +1798,7 @@
         </div>
         <div type="scene">
           <head>Neunter Auftritt</head>
-          <stage type="entrance" who="#pirro #marinelli #appiani #claudia">Pirro, gleich darauf Marinelli, und die Vorigen.</stage>
+          <stage type="entrance" who="#pirro #marinelli #claudia #appiani">Pirro, gleich darauf Marinelli, und die Vorigen.</stage>
           <sp who="#pirro">
             <speaker>PIRRO.</speaker>
             <p>Gnädige Frau, der Marchese Marinelli hält vor dem Hause, und erkundiget sich nach dem
@@ -2081,7 +2081,7 @@
         </div>
         <div type="scene">
           <head>Eilfter Auftritt</head>
-          <stage type="entrance" who="#appiani #claudia">Appiani. Claudia Galotti.</stage>
+          <stage type="entrance" who="#claudia #appiani">Appiani. Claudia Galotti.</stage>
           <sp who="#appiani">
             <speaker>APPIANI.</speaker>
             <p>Geh, Nichtswürdiger! – Ha! das hat gut getan. Mein Blut ist in Wallung gekommen. Ich
@@ -2323,7 +2323,7 @@
         </div>
         <div type="scene">
           <head>Zweiter Auftritt</head>
-          <stage type="entrance" who="#angelo #marinelli">Marinelli, und bald darauf Angelo.</stage>
+          <stage type="entrance" who="#marinelli #angelo">Marinelli, und bald darauf Angelo.</stage>
           <sp who="#marinelli">
             <speaker>MARINELLI</speaker>
             <stage>der wieder nach dem Fenster geht.</stage>
@@ -2605,7 +2605,7 @@
         </div>
         <div type="scene">
           <head>Fünfter Auftritt</head>
-          <stage type="entrance" who="#emilia #der_prinz #marinelli">Der Prinz. Emilia. Marinelli.</stage>
+          <stage type="entrance" who="#der_prinz #marinelli #emilia">Der Prinz. Emilia. Marinelli.</stage>
           <sp who="#der_prinz">
             <speaker>DER PRINZ.</speaker>
             <p>Wo ist sie? wo? – Wir suchen Sie überall, schönstes Fräulein. – Sie sind doch wohl? –
@@ -2687,7 +2687,7 @@
         </div>
         <div type="scene">
           <head>Sechster Auftritt</head>
-          <stage type="entrance" who="#battista #marinelli">Battista. Marinelli.</stage>
+          <stage type="entrance" who="#marinelli #battista">Battista. Marinelli.</stage>
           <sp who="#battista">
             <speaker>BATTISTA</speaker>
             <stage>eiligst.</stage>
@@ -2735,7 +2735,7 @@
         </div>
         <div type="scene">
           <head>Siebenter Auftritt</head>
-          <stage type="entrance" who="#battista #claudia #marinelli">Claudia Galotti. Battista. Marinelli.</stage>
+          <stage type="entrance" who="#claudia #marinelli #battista">Claudia Galotti. Battista. Marinelli.</stage>
           <sp who="#claudia">
             <speaker>CLAUDIA</speaker>
             <stage>die in die Türe tritt, indem Battista heraus gehen will.</stage>
@@ -3147,7 +3147,7 @@
         </div>
         <div type="scene">
           <head>Zweiter Auftritt</head>
-          <stage type="entrance" who="#battista #der_prinz #marinelli">Battista. Der Prinz. Marinelli.</stage>
+          <stage type="entrance" who="#der_prinz #marinelli #battista">Battista. Der Prinz. Marinelli.</stage>
           <sp who="#battista">
             <speaker>BATTISTA</speaker>
             <stage>eiligst.</stage>
@@ -3208,7 +3208,7 @@
         </div>
         <div type="scene">
           <head>Dritter Auftritt</head>
-          <stage type="entrance" who="#orsina #marinelli">Die Gräfin Orsina. Marinelli.</stage>
+          <stage type="entrance" who="#marinelli #orsina">Die Gräfin Orsina. Marinelli.</stage>
           <sp who="#orsina">
             <speaker>ORSINA</speaker>
             <stage>ohne den Marinelli anfangs zu erblicken.</stage>
@@ -3412,7 +3412,7 @@
         </div>
         <div type="scene">
           <head>Vierter Auftritt</head>
-          <stage type="entrance" who="#orsina #der_prinz #marinelli">Der Prinz. Orsina. Marinelli.</stage>
+          <stage type="entrance" who="#der_prinz #marinelli #orsina">Der Prinz. Orsina. Marinelli.</stage>
           <sp who="#der_prinz">
             <speaker>DER PRINZ</speaker>
             <stage type="entrance" who="#der_prinz">indem er aus dem Kabinette tritt, vor sich.</stage>
@@ -3436,7 +3436,7 @@
         </div>
         <div type="scene">
           <head>Fünfter Auftritt</head>
-          <stage type="entrance" who="#orsina #marinelli">Orsina. Marinelli.</stage>
+          <stage type="entrance" who="#marinelli #orsina">Orsina. Marinelli.</stage>
           <sp who="#marinelli">
             <speaker>MARINELLI.</speaker>
             <p>Haben Sie es, gnädige Gräfin, nun von ihm selbst gehört, was Sie mir nicht glauben
@@ -3765,7 +3765,7 @@
         </div>
         <div type="scene">
           <head>Siebenter Auftritt</head>
-          <stage type="entrance" who="#orsina #odoardo">Die Gräfin Orsina. Odoardo Galotti.</stage>
+          <stage type="entrance" who="#odoardo #orsina">Die Gräfin Orsina. Odoardo Galotti.</stage>
           <sp who="#orsina">
             <speaker>ORSINA</speaker>
             <stage>nach einigem Stillschweigen, unter welchem sie den Obersten mit Mitleid
@@ -3943,7 +3943,7 @@
         </div>
         <div type="scene">
           <head>Achter Auftritt</head>
-          <stage type="entrance" who="#claudia #orsina #odoardo">Claudia Galotti. Die Vorigen.</stage>
+          <stage type="entrance" who="#claudia #odoardo #orsina">Claudia Galotti. Die Vorigen.</stage>
           <sp who="#claudia">
             <speaker>CLAUDIA</speaker>
             <stage type="entrance" who="#claudia">die im Hereintreten sich umsiehet, und sobald sie ihren Gemahl erblickt, auf ihn
@@ -4266,7 +4266,7 @@
         </div>
         <div type="scene">
           <head>Fünfter Auftritt</head>
-          <stage type="entrance" who="#odoardo #der_prinz #marinelli">Der Prinz. Marinelli. Odoardo Galotti.</stage>
+          <stage type="entrance" who="#der_prinz #marinelli #odoardo">Der Prinz. Marinelli. Odoardo Galotti.</stage>
           <sp who="#der_prinz">
             <speaker>DER PRINZ.</speaker>
             <p>Ah, mein lieber, rechtschaffner Galotti, – so etwas muß auch geschehen, wenn ich Sie
@@ -4609,7 +4609,7 @@
         </div>
         <div type="scene">
           <head>Siebenter Auftritt</head>
-          <stage type="entrance" who="#emilia #odoardo">Emilia. Odoardo.</stage>
+          <stage type="entrance" who="#odoardo #emilia">Emilia. Odoardo.</stage>
           <sp who="#emilia">
             <speaker>EMILIA.</speaker>
             <p>Wie? Sie hier, mein Vater? – Und nur Sie? – Und meine Mutter? nicht hier? – Und der
@@ -4795,7 +4795,7 @@
         </div>
         <div type="scene">
           <head>Achter Auftritt</head>
-          <stage type="entrance" who="#der_prinz #marinelli #emilia #odoardo">Der Prinz. Marinelli. Die Vorigen.</stage>
+          <stage type="entrance" who="#der_prinz #marinelli #odoardo #emilia">Der Prinz. Marinelli. Die Vorigen.</stage>
           <sp who="#der_prinz">
             <speaker>DER PRINZ</speaker>
             <stage type="entrance" who="#der_prinz">im Hereintreten.</stage>

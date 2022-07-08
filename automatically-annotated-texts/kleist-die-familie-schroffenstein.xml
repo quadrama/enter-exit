@@ -439,7 +439,7 @@
               <l>Und seines Kindes Blute.</l>
             </lg>
             <stage>Er bedeckt sich das Gesicht;</stage>
-            <stage type="entrance" who="#ottokar #jeronimus">Ab, mit Gefolge, außer Ottokar und Jeronimus.</stage>
+            <stage type="entrance" who="#jeronimus #ottokar">Ab, mit Gefolge, außer Ottokar und Jeronimus.</stage>
           </sp>
           <sp who="#jeronimus">
             <speaker>JERONIMUS.</speaker>
@@ -2858,7 +2858,7 @@
         </div>
         <div type="scene">
           <head>Zweite Szene</head>
-          <stage type="entrance" who="#gertrude #jeronimus #theistiner #sylvester">Warwand. Zimmer im Schlosse. Sylvester auf einem Stuhle, mit Zeichen der Ohnmacht,
+          <stage type="entrance" who="#gertrude #theistiner #jeronimus #sylvester">Warwand. Zimmer im Schlosse. Sylvester auf einem Stuhle, mit Zeichen der Ohnmacht,
             die nun vorüber. Um ihn herum Jeronimus, Theistiner, Gertrude und ein Diener.</stage>
           <sp who="#gertrude">
             <speaker>GERTRUDE.</speaker>
@@ -5168,7 +5168,7 @@
         <div type="scene">
           <head>Zweite Szene</head>
           <stage>Rossitz. Ein Zimmer im Schlosse.</stage>
-          <stage type="entrance" who="#santing #rupert #eustache">Rupert, Santing und Eustache treten auf.</stage>
+          <stage type="entrance" who="#rupert #eustache #santing">Rupert, Santing und Eustache treten auf.</stage>
           <sp who="#rupert">
             <speaker>RUPERT.</speaker>
             <l>Erschlagen, sagst du?</l>
@@ -5405,7 +5405,7 @@
               <l>Der Rache auf die Probe – nun wir wollen</l>
               <l>Doch einen Henker noch zu Rate ziehen.</l>
             </lg>
-            <stage type="entrance" who="#santing #zweiter_wanderer">Santing und ein zweiter Wanderer treten auf.</stage>
+            <stage type="entrance" who="#zweiter_wanderer #santing">Santing und ein zweiter Wanderer treten auf.</stage>
           </sp>
           <sp who="#santing">
             <speaker>SANTING.</speaker>
@@ -5880,7 +5880,7 @@
               <l>'s ist kaum zu hoffen, kaum,</l>
               <l>– Versuchen will ich's. – Horch! Er kommt! Da ist er!</l>
             </lg>
-            <stage type="entrance" who="#santing #rupert">Rupert und Santing treten auf; Rupert erblickt Jeronimus, erblaßt, kehrt
+            <stage type="entrance" who="#rupert #santing">Rupert und Santing treten auf; Rupert erblickt Jeronimus, erblaßt, kehrt
               um.</stage>
           </sp>
           <sp who="#rupert">
@@ -6304,7 +6304,7 @@
               <l>Ein Schlag – – er taumelt, ah! noch einer. – – Nun</l>
               <l>Ist's aus. – Nun fällt er um. – Nun ist er tot. – –</l>
             </lg>
-            <stage type="entrance" who="#eustache #rupert">Pause; Eustache tritt vor Rupert.</stage>
+            <stage type="entrance" who="#rupert #eustache">Pause; Eustache tritt vor Rupert.</stage>
             <lg>
               <l>O welch entsetzliche Gelassenheit – –</l>
               <l>– Es hätte dir ein Wort gekostet, nur</l>
@@ -6388,7 +6388,7 @@
         <div type="scene">
           <head>Erste Szene</head>
           <stage>Rossitz. Zimmer im Schlosse.</stage>
-          <stage type="entrance" who="#santing #rupert">Rupert und Santing treten auf.</stage>
+          <stage type="entrance" who="#rupert #santing">Rupert und Santing treten auf.</stage>
           <sp who="#rupert">
             <speaker>RUPERT.</speaker>
             <lg>
@@ -7630,7 +7630,7 @@
         <div type="scene">
           <head>Vierte Szene</head>
           <stage>Eine andere Gegend im Gebirge.</stage>
-          <stage type="entrance" who="#santing #rupert">Rupert und Santing, treten auf.</stage>
+          <stage type="entrance" who="#rupert #santing">Rupert und Santing, treten auf.</stage>
           <sp who="#santing">
             <speaker>SANTING.</speaker>
             <lg>
@@ -8331,7 +8331,7 @@
               <l>Genau erkennen. Aber menschliche</l>
               <l>Gestalten sind es – – Ah!</l>
             </lg>
-            <stage type="entrance" who="#ottokar #agnes">Beide Mädchen fahren zurück. Ottokar tritt auf, und fliegt in Agnes'
+            <stage type="entrance" who="#agnes #ottokar">Beide Mädchen fahren zurück. Ottokar tritt auf, und fliegt in Agnes'
               Arme.</stage>
           </sp>
           <sp who="#ottokar">
@@ -9187,7 +9187,7 @@
             </lg>
             <stage>Sylvester wendet sich. Eustache läßt sich auf ein Knie vor Agnes' Leiche
               nieder.</stage>
-            <stage type="entrance" who="#johann #sylvius">Sylvius, von Johann geführt, treten auf. Der letzte mit Zeichen der
+            <stage type="entrance" who="#sylvius #johann">Sylvius, von Johann geführt, treten auf. Der letzte mit Zeichen der
               Verrückung.</stage>
           </sp>
           <sp who="#sylvius">

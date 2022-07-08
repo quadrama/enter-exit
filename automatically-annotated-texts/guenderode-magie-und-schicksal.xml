@@ -135,7 +135,7 @@
     <body>
       <div type="act">
         <head>Erster Akt</head>
-        <stage>Der Magier allein.</stage>
+        <stage type="entrance" who="#magier">Der Magier allein.</stage>
         <sp who="#magier">
           <speaker>MAGIER.</speaker>
           <lg>
@@ -170,7 +170,7 @@
             <l>Die nächtlich selbst sich zu zerstöhren drohten,</l>
             <l>In blindem Eifer wider sich entbrannt.</l>
           </lg>
-          <stage>Ligares kommt.</stage>
+          <stage type="entrance" who="#ligares">Ligares kommt.</stage>
         </sp>
         <sp who="#ligares">
           <speaker>LIGARES.</speaker>
@@ -319,7 +319,7 @@
             <l>Durch Handlen wird das Irdische erschaffen,</l>
             <l>Doch still betrachtet will der Himmel seyn.</l>
           </lg>
-          <stage>Ab.</stage>
+          <stage type="exit" who="#magier">Ab.</stage>
         </sp>
         <sp who="#ligares">
           <speaker>LIGARES.</speaker>
@@ -335,7 +335,7 @@
             <l>So wüthet Leidenschaft in meiner Seele</l>
             <l>Von keinem Tropfen Hoffnung mehr erquickt.</l>
           </lg>
-          <stage>Zeno kommt.</stage>
+          <stage type="entrance" who="#zeno">Zeno kommt.</stage>
         </sp>
         <sp who="#zeno">
           <speaker>ZENO.</speaker>
@@ -417,7 +417,7 @@
             <l>Nicht wecken will ich sie, dich will ich wecken,</l>
             <l>Daß du ein Hüter ihres Kerkers seyst.</l>
           </lg>
-          <stage>Ein Bote kommt.</stage>
+          <stage type="entrance" who="#bote">Ein Bote kommt.</stage>
         </sp>
         <sp who="#ligares">
           <speaker>LIGARES.</speaker>
@@ -511,8 +511,8 @@
             <l>Ich bin der Ost in dunkler Nacht begraben,</l>
             <l>Weil sich das Licht des Tages abgewandt.</l>
           </lg>
-          <stage>Ab.</stage>
-          <stage>Der Magier kommt.</stage>
+          <stage type="exit" who="#ligares">Ab.</stage>
+          <stage type="entrance" who="#magier">Der Magier kommt.</stage>
           <pb n="136"/>
         </sp>
         <sp who="#magier">
@@ -521,7 +521,7 @@
             <l>Geh, Knabe, geh! und folge meinem Sohne;</l>
             <l>Du aber Zeno bleibe noch bei mir.</l>
           </lg>
-          <stage>Der Knabe ab.</stage>
+          <stage type="exit" who="#knabe">Der Knabe ab.</stage>
           <lg>
             <l>Des Sohnes Klage hab ich wohl vernommen</l>
             <l>Und dunkel ahndete mir sein Geschick. –</l>
@@ -559,9 +559,9 @@
             <l><pb n="137"/> Ich weiß, daß dort ein Unfall ihn bedrohet.</l>
             <l>Geh! einsam will ich forschen was ihm frommt.</l>
           </lg>
-          <stage>Beide ab.</stage>
+          <stage type="exit" who="#magier">Beide ab.</stage>
           <stage>Ein Zimmer.</stage>
-          <stage>Cassandra allein.</stage>
+          <stage type="entrance" who="#cassandra">Cassandra allein.</stage>
         </sp>
         <sp who="#cassandra">
           <speaker>CASSANDRA.</speaker>
@@ -583,7 +583,7 @@
             <l>Und zeigst das Bild Alkmenes mir erzürnet,</l>
             <l>Die Mutter hassend den verlaßnen Sohn.</l>
           </lg>
-          <stage>Timandras kommt.</stage>
+          <stage type="entrance" who="#timandras">Timandras kommt.</stage>
         </sp>
         <sp who="#timandras">
           <speaker>TIMANDRAS.</speaker>
@@ -664,7 +664,7 @@
             <l>Mein Herz klopft laut dem Augenblick entgegen,</l>
             <l><pb n="140"/> Wo was ich liebe liebend sich vereint.</l>
           </lg>
-          <stage>Er öffnet die Thüre; Ladikä und Mandane treten ein.</stage>
+          <stage type="entrance" who="#mandane #ladikae">Er öffnet die Thüre; Ladikä und Mandane treten ein.</stage>
           <lg>
             <l>Sieh Mutter! das ist meine süße Liebe,</l>
             <l>Ich führ in deinen Arm die Tochter dir.</l>
@@ -720,7 +720,7 @@
         <sp who="#ladikae">
           <speaker>LADIKÄ.</speaker>
           <l>Hinweg von hier! Mandane, führ mich fort!</l>
-          <stage>Ladikä, Mandane und Timandras ab.</stage>
+          <stage type="exit" who="#mandane #ladikae #timandras">Ladikä, Mandane und Timandras ab.</stage>
         </sp>
         <sp who="#cassandra">
           <speaker>CASSANDRA.</speaker>
@@ -744,7 +744,7 @@
         <head><pb n="142"/> Zweiter Akt</head>
         <stage>Eine Waldgegend.</stage>
         <stage>Es ist Nacht und Mondschein.</stage>
-        <stage>Ligares und Zeno.</stage>
+        <stage type="entrance" who="#zeno #ligares">Ligares und Zeno.</stage>
         <sp who="#ligares">
           <speaker>LIGARES.</speaker>
           <lg>
@@ -806,13 +806,13 @@
             <l>Was stehst du noch? Geh! meld ihm was ich sage;</l>
             <l>Geh! und begrüß ihn freundlich noch von mir.</l>
           </lg>
-          <stage>Zeno ab.</stage>
+          <stage type="exit" who="#zeno">Zeno ab.</stage>
           <lg>
             <l>Leb wohl, o Vater! wie mich schmerzt zu scheiden!</l>
             <l>Doch muthig Herz! beginnen muß die That.</l>
           </lg>
-          <stage>Ab.</stage>
-          <stage>Nach einer Pause kommt Timandras.</stage>
+          <stage type="exit" who="#ligares">Ab.</stage>
+          <stage type="entrance" who="#timandras">Nach einer Pause kommt Timandras.</stage>
         </sp>
         <sp who="#timandras">
           <speaker>TIMANDRAS.</speaker>
@@ -838,11 +838,11 @@
             <l>Der sehnsuchtsvoll wie ich hinab will wandlen,</l>
             <l>Erschreckt von dieser Klüfte Einsamkeit.</l>
           </lg>
-          <stage>Ab.</stage>
+          <stage type="exit" who="#timandras">Ab.</stage>
           <stage>Ein Zimmer.</stage>
           <stage>Die Wände sind schwarz, mit weißen Hieroglyphen bedeckt, zur Seite steht ein Altar,
             auf dem ein Feuer brennt.</stage>
-          <stage>Der Magier allein.</stage>
+          <stage type="entrance" who="#magier">Der Magier allein.</stage>
         </sp>
         <sp who="#magier">
           <speaker>MAGIER.</speaker>
@@ -879,7 +879,7 @@
             <l>So fällt er auf dem ungewohnten Boden,</l>
             <l>Und strauchlen ist sein herrlichster Versuch.</l>
           </lg>
-          <stage>Zeno kommt.</stage>
+          <stage type="entrance" who="#zeno">Zeno kommt.</stage>
           <lg>
             <l>Sag Zeno! bleichen nicht im Ost die Sterne?</l>
             <l>Fällt Morgenthau nicht aus des Himmels Aug?</l>
@@ -1109,7 +1109,7 @@
             <l>Timandras – ach! ich kann nicht – Lebe wohl –</l>
           </lg>
           <stage>Er stirbt.</stage>
-          <stage>Nach einer kleinen Pause kommt Ligares.</stage>
+          <stage type="entrance" who="#ligares">Nach einer kleinen Pause kommt Ligares.</stage>
         </sp>
         <sp who="#ligares">
           <speaker>LIGARES.</speaker>
@@ -1162,7 +1162,7 @@
           <l>Horch! ja ich höre draußen Menschentritte –</l>
           <stage>Es pocht; er öffnet die Thüre.</stage>
           <l>Tritt näher, Fremdling! sprich, was führt dich her?</l>
-          <stage>Timandras tritt ein.</stage>
+          <stage type="entrance" who="#timandras">Timandras tritt ein.</stage>
         </sp>
         <sp who="#timandras">
           <speaker>TIMANDRAS.</speaker>
@@ -1198,7 +1198,7 @@
             <l>Laß nieder dich, und schlumm're, bist du müde?</l>
             <l>Ich gehe, daß du ungestörter seyst.</l>
           </lg>
-          <stage>Er nimmt den Zepter vom Altar, und geht ab.</stage>
+          <stage type="exit" who="#zeno">Er nimmt den Zepter vom Altar, und geht ab.</stage>
         </sp>
         <sp who="#timandras">
           <speaker>TIMANDRAS.</speaker>
@@ -1261,7 +1261,7 @@
         <sp who="#timandras">
           <speaker>TIMANDRAS.</speaker>
           <l>Wohlan, es sey! Du zwingest mördrisch mich.</l>
-          <stage>Sie fechten. Ligares wird in die rechte Hand verwundet, er läßt den Dolch fallen.
+          <stage type="entrance" who="#zeno">Sie fechten. Ligares wird in die rechte Hand verwundet, er läßt den Dolch fallen.
             Zeno kommt.</stage>
         </sp>
         <sp who="#zeno">
@@ -1303,7 +1303,7 @@
             <l>Unsinniger! von Raserei getrieben,</l>
             <l>Erwirbst du so der eignen Thorheit Lohn?</l>
           </lg>
-          <stage>Geht schnell ab. Lange Pause.</stage>
+          <stage type="exit" who="#timandras">Geht schnell ab. Lange Pause.</stage>
         </sp>
         <sp who="#ligares">
           <speaker>LIGARES.</speaker>
@@ -1351,9 +1351,9 @@
             <l>Komm, laß mich deine Wunden erst verbinden,</l>
             <l>Eh du verblutend gänzlich dich erschöpfst.</l>
           </lg>
-          <stage>Beide ab.</stage>
+          <stage type="exit" who="#zeno">Beide ab.</stage>
           <stage>Ein reich verziertes Zimmer.</stage>
-          <stage>Mandane kommt mit einigen Sklavinnen, die Körbe mit Blumen und andern Geschenken
+          <stage type="entrance" who="#mandane">Mandane kommt mit einigen Sklavinnen, die Körbe mit Blumen und andern Geschenken
             tragen.</stage>
         </sp>
         <sp who="#mandane">
@@ -1368,14 +1368,14 @@
             <l>Mit goldnen Ketten fesselt die Rubinen;</l>
             <l>Den reichen Gürtel leget noch hinzu.</l>
           </lg>
-          <stage>Die Sklavinnen gehen ab.</stage>
+          <stage type="exit" who="#mandane">Die Sklavinnen gehen ab.</stage>
           <lg>
             <l>Wie schön das durcheinander blitzt und glänzet!</l>
             <l>Mich selbst verblendet fast die Herrlichkeit;</l>
             <l>Wie wird Ladikä sich daran erfreuen,</l>
             <l>Bewundernd diesen Glanz vereinet sehn!</l>
           </lg>
-          <stage>Ladikä kommt.</stage>
+          <stage type="entrance" who="#ladikae">Ladikä kommt.</stage>
           <lg>
             <l>Sieh doch, Ladikä! hebe doch die Augen;</l>
             <l>Das alles gab Timandras mir für dich. –</l>
@@ -1480,9 +1480,9 @@
             <l>Horch! hörst du nicht? Es ist Timandras Stimme!</l>
             <l>O komm! komm! laß uns ihm entgegen gehn.</l>
           </lg>
-          <stage>Beide ab.</stage>
+          <stage type="exit" who="#ladikae">Beide ab.</stage>
           <stage><pb n="160"/> Waldgegend; ein Strom, worauf ein Nachen.</stage>
-          <stage>Ligares, Zeno und der Knabe kommen.</stage>
+          <stage type="entrance" who="#zeno #knabe #ligares">Ligares, Zeno und der Knabe kommen.</stage>
         </sp>
         <sp who="#ligares">
           <speaker>LIGARES.</speaker>
@@ -1519,7 +1519,7 @@
             <l>Leb wohl, mein Zeno! ihr geliebten Haine!</l>
             <l>Lebt wohl, ihr Klüfte süßer Einsamkeit!</l>
           </lg>
-          <stage>Zeno ab.</stage>
+          <stage type="exit" who="#zeno">Zeno ab.</stage>
           <lg>
             <l>Nun Knabe schnell, daß mir die Sinne schwinden,</l>
             <l>Und ich nicht fühle, was mit mir geschieht.</l>
@@ -1629,8 +1629,8 @@
             <l>Vor Lust und Freude mögt' ich fast verzagen,</l>
             <l>Zu großes Glück wirkt großem Unglück gleich.</l>
           </lg>
-          <stage>Ab.</stage>
-          <stage>Zeno, und der Knabe kommen.</stage>
+          <stage type="exit" who="#ligares">Ab.</stage>
+          <stage type="entrance" who="#zeno #knabe">Zeno, und der Knabe kommen.</stage>
         </sp>
         <sp who="#knabe">
           <speaker>KNABE.</speaker>
@@ -1711,7 +1711,7 @@
             <l>Ja oft an seinem Grabe will ich beten,</l>
             <l>Auch für Ligares, meinen guten Herrn.</l>
           </lg>
-          <stage>Sie wollen gehen; der Knabe wird Timandras gewahr.</stage>
+          <stage type="entrance" who="#knabe #timandras">Sie wollen gehen; der Knabe wird Timandras gewahr.</stage>
           <lg>
             <l>Sieh doch, o Zeno! wie hier dieser schlummert;</l>
             <l>Wer mag es seyn? Fürwahr sein Schlaf ist tief –</l>
@@ -1727,9 +1727,9 @@
             <l><pb n="167"/> Komm, Knabe! laß uns diesen Ort verlassen.</l>
             <l>O hätt' ich dieses Schreckniß nie geseh'n!</l>
           </lg>
-          <stage>Beide ab.</stage>
+          <stage type="exit" who="#zeno">Beide ab.</stage>
           <stage>Ein Garten.</stage>
-          <stage>Ladikä und Mandane.</stage>
+          <stage type="entrance" who="#mandane #ladikae">Ladikä und Mandane.</stage>
         </sp>
         <sp who="#ladikae">
           <speaker>LADIKÄ.</speaker>
@@ -1817,7 +1817,7 @@
             <l>Geh! suche den Timandras, liebes Mädchen,</l>
             <l>Und sag ihm, daß ich warte hier auf ihn.</l>
           </lg>
-          <stage>Mandane ab, Ladikä bleibt nachdenkend stehen, nach einer Weile kommt
+          <stage type="entrance" who="#mandane #ladikae #ligares">Mandane ab, Ladikä bleibt nachdenkend stehen, nach einer Weile kommt
             Ligares.</stage>
         </sp>
         <sp who="#ligares">
@@ -2028,7 +2028,7 @@
             <l>Wirst du Ladikä's Auge nimmer schauen,</l>
             <l>Denn deine Reden hör' ich nicht mehr an.</l>
           </lg>
-          <stage>Sie geht schnell ab.</stage>
+          <stage type="exit" who="#ladikae">Sie geht schnell ab.</stage>
         </sp>
         <sp who="#ligares">
           <speaker>LIGARES.</speaker>
@@ -2040,7 +2040,7 @@
             <l>Von allen Freuden dieser ganzen Erde</l>
             <l>Wählt' ich aus ihrer Fülle Eine mir.</l>
           </lg>
-          <stage>Cassandra kommt, und bleibt im Hintergrunde.</stage>
+          <stage type="entrance" who="#cassandra">Cassandra kommt, und bleibt im Hintergrunde.</stage>
           <lg>
             <l>Und diese einzige ist mir versaget,</l>
             <l>Und kein Ersatz, so weit der Himmel reicht.</l>
@@ -2288,7 +2288,7 @@
             <l>Und seine Winke hab' ich nur vollzogen:</l>
             <l>Drum denke, daß ichs nur gezwungen that.</l>
           </lg>
-          <stage>Geht schnell ab.</stage>
+          <stage type="exit" who="#ligares">Geht schnell ab.</stage>
           <pb n="181"/>
           <pb n="183"/>
         </sp>

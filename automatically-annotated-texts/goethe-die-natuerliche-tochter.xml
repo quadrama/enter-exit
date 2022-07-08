@@ -144,7 +144,7 @@
         <stage>Dichter Wald.</stage>
         <div type="scene">
           <head>Erster Auftritt</head>
-          <stage type="entrance" who="#herzog #koenig">König. Herzog.</stage>
+          <stage type="entrance" who="#koenig #herzog">König. Herzog.</stage>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
             <lg>
@@ -411,7 +411,7 @@
         </div>
         <div type="scene">
           <head>Zweiter Auftritt</head>
-          <stage type="entrance" who="#graf #herzog #koenig">Die Vorigen. Graf.</stage>
+          <stage type="entrance" who="#graf #koenig #herzog">Die Vorigen. Graf.</stage>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
             <l>Warum versammelt sich die Menge dort?</l>
@@ -449,7 +449,7 @@
         </div>
         <div type="scene">
           <head>Dritter Auftritt</head>
-          <stage type="entrance" who="#graf #koenig">König. Graf.</stage>
+          <stage type="entrance" who="#koenig #graf">König. Graf.</stage>
           <sp who="#koenig">
             <speaker>KÖNIG.</speaker>
             <l>Kennst du den Anlaß der Begebenheit?</l>
@@ -532,7 +532,7 @@
         </div>
         <div type="scene">
           <head>Vierter Auftritt</head>
-          <stage type="entrance" who="#herzog #eugenie #graf #koenig">Die Vorigen. Eugenie, auf zusammengeflochtenen Ästen für tot hereingetragen.
+          <stage type="entrance" who="#herzog #eugenie #koenig #graf">Die Vorigen. Eugenie, auf zusammengeflochtenen Ästen für tot hereingetragen.
             Herzog. Wundarzt. Gefolge.</stage>
           <sp who="#herzog">
             <speaker>HERZOG</speaker>
@@ -671,7 +671,7 @@
         </div>
         <div type="scene">
           <head>Fünfter Auftritt</head>
-          <stage type="entrance" who="#herzog #koenig #eugenie">König. Herzog. Eugenie.</stage>
+          <stage type="entrance" who="#koenig #herzog #eugenie">König. Herzog. Eugenie.</stage>
           <sp who="#koenig">
             <speaker>KÖNIG</speaker>
             <stage>näher tretend.</stage>
@@ -1390,7 +1390,7 @@
         <stage>Zimmer Eugeniens, im gotischen Stil.</stage>
         <div type="scene">
           <head>Erster Auftritt</head>
-          <stage type="entrance" who="#sekretaer #hofmeisterin">Hofmeisterin. Sekretär.</stage>
+          <stage type="entrance" who="#hofmeisterin #sekretaer">Hofmeisterin. Sekretär.</stage>
           <sp who="#sekretaer">
             <speaker>SEKRETÄR.</speaker>
             <lg>
@@ -2404,7 +2404,7 @@
         <stage>Vorzimmer des Herzogs, prächtig, modern.</stage>
         <div type="scene">
           <head>Erster Auftritt</head>
-          <stage type="entrance" who="#sekretaer #weltgeistlicher">Sekretär. Weltgeistlicher.</stage>
+          <stage type="entrance" who="#weltgeistlicher #sekretaer">Sekretär. Weltgeistlicher.</stage>
           <sp who="#sekretaer">
             <speaker>SEKRETÄR.</speaker>
             <lg>
@@ -2656,7 +2656,7 @@
         </div>
         <div type="scene">
           <head>Zweiter Auftritt</head>
-          <stage type="entrance" who="#sekretaer #herzog">Herzog. Sekretär.</stage>
+          <stage type="entrance" who="#herzog #sekretaer">Herzog. Sekretär.</stage>
           <sp who="#herzog">
             <speaker>HERZOG.</speaker>
             <lg>
@@ -2920,7 +2920,7 @@
         </div>
         <div type="scene">
           <head>Dritter Auftritt</head>
-          <stage type="entrance" who="#sekretaer #herzog #weltgeistlicher">Herzog. Sekretär. Weltgeistlicher.</stage>
+          <stage type="entrance" who="#weltgeistlicher #herzog #sekretaer">Herzog. Sekretär. Weltgeistlicher.</stage>
           <sp who="#sekretaer">
             <speaker>SEKRETÄR.</speaker>
             <lg>
@@ -2936,7 +2936,7 @@
         </div>
         <div type="scene">
           <head>Vierter Auftritt</head>
-          <stage type="entrance" who="#herzog #weltgeistlicher">Herzog. Weltgeistlicher.</stage>
+          <stage type="entrance" who="#weltgeistlicher #herzog">Herzog. Weltgeistlicher.</stage>
           <sp who="#weltgeistlicher">
             <speaker>WELTGEISTLICHER.</speaker>
             <lg>
@@ -3440,7 +3440,7 @@
           Reihe Bäume, durch die man nach dem Hafen hinabsieht.</stage>
         <div type="scene">
           <head>Erster Auftritt</head>
-          <stage type="entrance" who="#gerichtsrat #hofmeisterin #eugenie">Eugenie, in einen Schleier gehüllt, auf einer Bank im Grunde, mit dem Gesicht nach
+          <stage type="entrance" who="#hofmeisterin #gerichtsrat #eugenie">Eugenie, in einen Schleier gehüllt, auf einer Bank im Grunde, mit dem Gesicht nach
             der See. Hofmeisterin, Gerichtsrat im Vordergrunde.</stage>
           <sp who="#hofmeisterin">
             <speaker>HOFMEISTERIN.</speaker>

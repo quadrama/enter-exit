@@ -378,7 +378,7 @@
         <head>Erster Akt</head>
         <div type="scene">
           <head>Schwarzenberg in Franken. Herberge</head>
-          <stage type="entrance" who="#wirt #reiter #knecht_belagerung_kueche #sievers #metzler">Metzler, Sievers am Tische. Zwei Reitersknechte beim Feuer. Wirt.</stage>
+          <stage type="entrance" who="#wirt #reiter #knecht_belagerung_kueche #metzler #sievers">Metzler, Sievers am Tische. Zwei Reitersknechte beim Feuer. Wirt.</stage>
           <sp who="#sievers">
             <speaker>SIEVERS.</speaker>
             <p>Hänsel, noch ein Glas Branntwein, und meß christlich.</p>
@@ -1325,7 +1325,7 @@
           <sp who="#reiter">
             <speaker>REITER.</speaker>
             <p>Der wird nicht sein Vater, sonst ging er mit in Stall!</p>
-            <stage type="entrance" who="#weislingen #reiter #goetz #knecht_belagerung_kueche">Götz, Weislingen, Reitersknechte.</stage>
+            <stage type="entrance" who="#reiter #weislingen #knecht_belagerung_kueche #goetz">Götz, Weislingen, Reitersknechte.</stage>
             <stage type="entrance" who="#goetz">Götz, Helm und Schwert auf den Tisch legend.</stage>
             <p>Schnallt mir den Harnisch auf, und gebt mir mein Wams. Die Bequemlichkeit wird mir
               wohltun. Bruder Martin, du sagtest recht. – Ihr habt uns in Atem erhalten,
@@ -3573,7 +3573,7 @@
         </div>
         <div type="scene">
           <head>Herberge. Bauernhochzeit. Musik und Tanz draußen</head>
-          <stage type="entrance" who="#braeutigam #brautvater #selbitz #goetz">Der Brautvater, Götz, Selbitz am Tische. Bräutigam tritt zu ihnen.</stage>
+          <stage type="entrance" who="#braeutigam #goetz #selbitz #brautvater">Der Brautvater, Götz, Selbitz am Tische. Bräutigam tritt zu ihnen.</stage>
           <sp who="#goetz">
             <speaker>GÖTZ.</speaker>
             <p>Das Gescheitste war, daß ihr euren Zwist so glücklich und fröhlich durch eine Heirat
@@ -4411,7 +4411,7 @@
           <sp who="#zweiter_reichsknecht">
             <speaker>ZWEITER KNECHT.</speaker>
             <p>Ich steck mich ins Rohr.</p>
-            <stage type="entrance" who="#lerse #georg #goetz #knecht_belagerung_kueche">Götz, Lerse, Georg, Knechte zu Pferde.</stage>
+            <stage type="entrance" who="#georg #knecht_belagerung_kueche #lerse #goetz">Götz, Lerse, Georg, Knechte zu Pferde.</stage>
           </sp>
           <sp who="#goetz">
             <speaker>GÖTZ.</speaker>
@@ -4820,7 +4820,7 @@
         </div>
         <div type="scene">
           <head>Jaxthausen</head>
-          <stage type="entrance" who="#lerse #georg #goetz">Götz, Lerse, Georg.</stage>
+          <stage type="entrance" who="#georg #lerse #goetz">Götz, Lerse, Georg.</stage>
           <sp who="#goetz">
             <speaker>GÖTZ.</speaker>
             <p>Wir dürfen keinen Augenblick säumen! Arme Jungen, ich darf euch keine Rast gönnen.
@@ -5071,7 +5071,7 @@
           <sp who="#goetz">
             <speaker>GÖTZ.</speaker>
             <p>Noch einen Augenblick – Ich seh euch wieder. Tröstet euch! Wir sehn uns wieder.</p>
-            <stage type="exit" who="#maria #sickingen">Sickingen, Maria ab.</stage>
+            <stage type="exit" who="#sickingen #maria">Sickingen, Maria ab.</stage>
           </sp>
           <sp who="#goetz">
             <speaker>GÖTZ.</speaker>
@@ -5170,7 +5170,7 @@
         </div>
         <div type="scene">
           <head>Saal</head>
-          <stage type="entrance" who="#knecht_belagerung_kueche #kohl #lerse">Lerse mit einer Kugelform. Knecht mit Kohlen.</stage>
+          <stage type="entrance" who="#kohl #knecht_belagerung_kueche #lerse">Lerse mit einer Kugelform. Knecht mit Kohlen.</stage>
           <sp who="#lerse">
             <speaker>LERSE.</speaker>
             <p>Stell sie daher, und seht, wo ihr im Hause Blei kriegt. Inzwischen will ich hier
@@ -5262,7 +5262,7 @@
         </div>
         <div type="scene">
           <head>Saal</head>
-          <stage type="entrance" who="#knechte_bei_tische #georg #goetz #knecht_belagerung_kueche #elisabeth">Götz, Elisabeth, Georg, Knechte bei Tische.</stage>
+          <stage type="entrance" who="#elisabeth #goetz #georg #knecht_belagerung_kueche #knechte_bei_tische">Götz, Elisabeth, Georg, Knechte bei Tische.</stage>
           <sp who="#goetz">
             <speaker>GÖTZ.</speaker>
             <p>So bringt uns die Gefahr zusammen. Laßt's euch schmecken, meine Freunde! Vergeßt das
@@ -6597,7 +6597,7 @@
           <sp who="#kohl">
             <speaker>KOHL.</speaker>
             <p>Wußten wohl, du würdest Entschuldigung finden.</p>
-            <stage type="entrance" who="#lerse #georg #goetz">Götz, Lerse, Georg kommen.</stage>
+            <stage type="entrance" who="#georg #lerse #goetz">Götz, Lerse, Georg kommen.</stage>
           </sp>
           <sp who="#goetz">
             <speaker>GÖTZ.</speaker>
@@ -6701,7 +6701,7 @@
           <sp who="#goetz">
             <speaker>GÖTZ.</speaker>
             <p>Lerse! Kehr zu meiner Frau! Steh ihr bei! Sie soll bald Nachricht von mir haben.</p>
-            <stage type="exit" who="#georg #goetz #lerse">Götz, Stumpf, Georg, Lerse, einige Bauern ab.</stage>
+            <stage type="exit" who="#georg #lerse #goetz">Götz, Stumpf, Georg, Lerse, einige Bauern ab.</stage>
             <stage type="entrance" who="#link #metzler">Metzler, Link kommen.</stage>
           </sp>
           <sp who="#metzler">
@@ -7028,7 +7028,7 @@
             <speaker>ERSTE ZIGEUNERIN.</speaker>
             <p>Ist das dort drunten Brand, der Schein? Seh ihm schon lang zu. Man ist der
               Feuerzeichen am Himmel zeither so gewohnt worden.</p>
-            <stage type="entrance" who="#zigeunerhauptmann #hauptmann">Zigeunerhauptmann, drei Gesellen kommen.</stage>
+            <stage type="entrance" who="#hauptmann #zigeunerhauptmann">Zigeunerhauptmann, drei Gesellen kommen.</stage>
           </sp>
           <sp who="#zigeunerhauptmann">
             <speaker>HAUPTMANN.</speaker>

@@ -788,7 +788,7 @@
         <head>Zweiter Akt</head>
         <div type="scene">
           <head>Erste Szene</head>
-          <stage type="entrance" who="#geheimer_rat #pastor #laeuffer">Pastor Läuffer. Der Geheimer Rat.</stage>
+          <stage type="entrance" who="#geheimer_rat #laeuffer #pastor">Pastor Läuffer. Der Geheimer Rat.</stage>
           <sp who="#geheimer_rat">
             <speaker>GEHEIMER RAT.</speaker>
             <p>Ich bedaure ihn – und Sie noch vielmehr, Herr Pastor, daß Sie solchen Sohn haben.</p>
@@ -2271,7 +2271,7 @@
         <div type="scene">
           <head>Vierte Szene</head>
           <stage>Die Schule.</stage>
-          <stage type="entrance" who="#wenzeslaus #laeuffer">Wenzeslaus und Läuffer an einem ungedeckten Tisch, speisend.</stage>
+          <stage type="entrance" who="#laeuffer #wenzeslaus">Wenzeslaus und Läuffer an einem ungedeckten Tisch, speisend.</stage>
           <sp who="#wenzeslaus">
             <speaker>WENZESLAUS.</speaker>
             <p>Schmeckt's? Nicht wahr, es ist ein Abstand von meinem Tisch und des Majors? Aber wenn
@@ -2628,7 +2628,7 @@
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Die Schule.</stage>
-          <stage type="entrance" who="#major #graf_wermuth #wenzeslaus #laeuffer">Wenzeslaus, Läuffer, an einem Tisch sitzend. Der Major, der Geheime Rat und Graf
+          <stage type="entrance" who="#major #graf_wermuth #laeuffer #wenzeslaus">Wenzeslaus, Läuffer, an einem Tisch sitzend. Der Major, der Geheime Rat und Graf
             Wermuth treten herein mit Bedienten.</stage>
           <sp who="#wenzeslaus">
             <speaker>WENZESLAUS</speaker>
@@ -4138,7 +4138,7 @@
         <div type="scene">
           <head>Eilfte Szene</head>
           <stage>Zu Insterburg.</stage>
-          <stage type="entrance" who="#rehaar #jungfer_rehaar #gustchen #paetus #fritz #geheimer_rat">Geheimer Rat. Fritz von Berg. Pätus. Gustchen. Jungfer Rehaar. Gustchen und Jungfer
+          <stage type="entrance" who="#jungfer_rehaar #rehaar #gustchen #paetus #fritz #geheimer_rat">Geheimer Rat. Fritz von Berg. Pätus. Gustchen. Jungfer Rehaar. Gustchen und Jungfer
             Rehaar verstecken sich bei der Ankunft der erstern in die Kammer. Geheimer Rat und Fritz
             laufen sich entgegen.</stage>
           <sp who="#fritz">
@@ -4378,7 +4378,7 @@
         </div>
         <div type="scene">
           <head>Letzte Szene</head>
-          <stage type="entrance" who="#paetus #der_alte_paetus #major">Der Major, ein Kind auf dem Arm. Der alte Pätus.</stage>
+          <stage type="entrance" who="#der_alte_paetus #paetus #major">Der Major, ein Kind auf dem Arm. Der alte Pätus.</stage>
           <sp who="#major">
             <speaker>MAJOR.</speaker>
             <p>Kommen Sie, Herr Pätus. Sie haben mir das Leben wiedergegeben. Das war der einzige
@@ -4448,7 +4448,7 @@
           </sp>
           <sp who="#geheimer_rat">
             <speaker>GEHEIMER RAT</speaker>
-            <stage type="entrance" who="#fritz #gustchen">öffnet die Kammer; auf seinen Wink tritt Fritz mit Gustchen heraus.</stage>
+            <stage type="entrance" who="#gustchen #fritz">öffnet die Kammer; auf seinen Wink tritt Fritz mit Gustchen heraus.</stage>
             <pb n="101"/>
           </sp>
           <sp who="#major">

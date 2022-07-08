@@ -197,6 +197,10 @@ for file in os.listdir(directory):
     previousPersons =""
 
     divs = root.xpath(".//tei:div[@type='scene']", namespaces=namespace)
+    
+    if len(divs) == 0:
+        divs = root.xpath(".//tei:div[@type='act']", namespaces=namespace)
+    
 
     for div in divs:
         stage = div.findall(".//tei:stage", namespaces = namespace)

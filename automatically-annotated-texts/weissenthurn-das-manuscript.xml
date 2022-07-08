@@ -502,7 +502,7 @@
         </div>
         <div type="scene">
           <head>Zweyter Auftritt</head>
-          <stage type="entrance" who="#kunigunde #gehrmann #august #emerike">August. Gehrmann führt Emerike, Kunigunde folgt. Beyde sind wohlhabend bürgerlich
+          <stage type="entrance" who="#kunigunde #gehrmann #emerike #august">August. Gehrmann führt Emerike, Kunigunde folgt. Beyde sind wohlhabend bürgerlich
             nett, aber alterthümlich gekleidet. Kunigundens Tracht ist jedoch mehr zurück.</stage>
           <sp who="#gehrmann">
             <speaker>GEHRMANN</speaker>
@@ -682,7 +682,7 @@
         </div>
         <div type="scene">
           <head>Dritter Auftritt</head>
-          <stage type="entrance" who="#kunigunde #gehrmann #august #emerike">Die Vorigen, ohne Kunigunde.</stage>
+          <stage type="entrance" who="#kunigunde #gehrmann #emerike #august">Die Vorigen, ohne Kunigunde.</stage>
           <sp who="#emerike">
             <speaker>EMERIKE</speaker>
             <stage>für sich.</stage>
@@ -901,7 +901,7 @@
         </div>
         <div type="scene">
           <head>Vierter Auftritt</head>
-          <stage type="entrance" who="#august #emerike">Emerike, August.</stage>
+          <stage type="entrance" who="#emerike #august">Emerike, August.</stage>
           <sp who="#august">
             <speaker>AUGUST</speaker>
             <stage>für sich.</stage>
@@ -1182,7 +1182,7 @@
         </div>
         <div type="scene">
           <head>Fünfter Auftritt</head>
-          <stage type="entrance" who="#flint #august #emerike">Flint, die Vorigen.</stage>
+          <stage type="entrance" who="#flint #emerike #august">Flint, die Vorigen.</stage>
           <sp who="#flint">
             <speaker>FLINT</speaker>
             <stage>grüßt Emeriken im Vorübergehen, und sagt zu August.</stage>
@@ -1832,7 +1832,7 @@
           und einige Diener sind im Hintergrunde mit Bücher aus- und einpacken beschäftigt.</stage>
         <div type="scene">
           <head>Erster Auftritt</head>
-          <stage type="entrance" who="#diener #walter #flint">Flint. Walter. Diener.</stage>
+          <stage type="entrance" who="#diener #flint #walter">Flint. Walter. Diener.</stage>
           <sp who="#walter">
             <speaker>WALTER</speaker>
             <stage>zu einem Diener.</stage>
@@ -6442,7 +6442,7 @@
         </div>
         <div type="scene">
           <head>Vierter Auftritt</head>
-          <stage type="entrance" who="#madame_woelbing #albertine #august">Madame Wölbing. August. Albertine.</stage>
+          <stage type="entrance" who="#madame_woelbing #august #albertine">Madame Wölbing. August. Albertine.</stage>
           <sp who="#august">
             <speaker>AUGUST</speaker>
             <stage type="entrance" who="#madame_woelbing">im Eintreten leise zu Madame Wölbing.</stage>
@@ -6662,7 +6662,7 @@
         </div>
         <div type="scene">
           <head>Fünfter Auftritt</head>
-          <stage type="entrance" who="#gehrmann #madame_woelbing #albertine #august">Gehrmann, die Vorigen.</stage>
+          <stage type="entrance" who="#gehrmann #madame_woelbing #august #albertine">Gehrmann, die Vorigen.</stage>
           <sp who="#gehrmann">
             <speaker>GEHRMANN</speaker>
             <stage>schreit.</stage>
@@ -6803,7 +6803,7 @@
         </div>
         <div type="scene">
           <head>Letzter Auftritt</head>
-          <stage type="entrance" who="#annchen #gehrmann #madame_woelbing #albertine #august">Annchen, die Vorigen.</stage>
+          <stage type="entrance" who="#annchen #gehrmann #madame_woelbing #august #albertine">Annchen, die Vorigen.</stage>
           <sp who="#annchen">
             <speaker>ANNCHEN</speaker>
             <stage>läuft auf Albertinen zu.</stage>

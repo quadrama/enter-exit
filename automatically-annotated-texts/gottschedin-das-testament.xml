@@ -1063,7 +1063,7 @@
         </div>
         <div type="scene">
           <head>Vierter Auftritt</head>
-          <stage type="entrance" who="#fraeulein_amalie #frau_von_tiefenborn">Frau von Tiefenborn. Fräulein Amalie. Dr. Hippokras.</stage>
+          <stage type="entrance" who="#frau_von_tiefenborn #fraeulein_amalie">Frau von Tiefenborn. Fräulein Amalie. Dr. Hippokras.</stage>
           <sp who="#frau_von_tiefenborn">
             <speaker>FRAU VON TIEFENBORN.</speaker>
             <p>Das ist ein kleiner Trotzkopf! aber sie meint's doch nicht böse.</p>
@@ -1277,7 +1277,7 @@
         <head>Der zweite Aufzug</head>
         <div type="scene">
           <head>Erster Auftritt</head>
-          <stage type="entrance" who="#fraeulein_amalie #herr_von_kaltenbrunn">Fräulein Amalie. Herr von Kaltenbrunn.</stage>
+          <stage type="entrance" who="#herr_von_kaltenbrunn #fraeulein_amalie">Fräulein Amalie. Herr von Kaltenbrunn.</stage>
           <sp who="#herr_von_kaltenbrunn">
             <speaker>HERR VON KALTENBRUNN.</speaker>
             <p>Wie hat denn die Oberstin diese Nacht geschlafen?</p>
@@ -1464,7 +1464,7 @@
         </div>
         <div type="scene">
           <head>Zweiter Auftritt</head>
-          <stage type="entrance" who="#fraeulein_karoline #fraeulein_amalie #herr_von_kaltenbrunn">Die Vorigen. Fräulein Karoline.</stage>
+          <stage type="entrance" who="#fraeulein_karoline #herr_von_kaltenbrunn #fraeulein_amalie">Die Vorigen. Fräulein Karoline.</stage>
           <sp who="#fraeulein_karoline">
             <speaker>FRÄULEIN KAROLINE.</speaker>
             <p>Was gibt's? Kinder! was zankt ihr euch?</p>
@@ -1577,7 +1577,7 @@
         </div>
         <div type="scene">
           <head>Dritter Auftritt</head>
-          <stage type="entrance" who="#fraeulein_amalie #fraeulein_karoline #herr_von_kreuzweg #herr_von_kaltenbrunn">Fräulein Amalie. Fräulein Karoline. Herr von Kaltenbrunn. Herr von
+          <stage type="entrance" who="#herr_von_kaltenbrunn #fraeulein_amalie #fraeulein_karoline #herr_von_kreuzweg">Fräulein Amalie. Fräulein Karoline. Herr von Kaltenbrunn. Herr von
             Kreuzweg.</stage>
           <sp who="#herr_von_kreuzweg">
             <speaker>HERR VON KREUZWEG.</speaker>
@@ -1755,7 +1755,7 @@
         </div>
         <div type="scene">
           <head>Fünfter Auftritt</head>
-          <stage type="entrance" who="#fraeulein_karoline #herr_von_kreuzweg #herr_von_kaltenbrunn">Fräulein Karoline. Herr von Kreuzweg. Herr von Kaltenbrunn.</stage>
+          <stage type="entrance" who="#herr_von_kaltenbrunn #fraeulein_karoline #herr_von_kreuzweg">Fräulein Karoline. Herr von Kreuzweg. Herr von Kaltenbrunn.</stage>
           <sp who="#herr_von_kaltenbrunn">
             <speaker>HERR VON KALTENBRUNN.</speaker>
             <p>O mein allerliebster Herr von Kreuzweg! tun Sie mir doch die Liebe und schicken
@@ -2311,7 +2311,7 @@
         <head>Der dritte Aufzug</head>
         <div type="scene">
           <head>Erster Auftritt</head>
-          <stage type="entrance" who="#fraeulein_amalie #herr_von_kaltenbrunn">Herr von Kaltenbrunn. Fräulein Amalie. Dr. Hippokras.</stage>
+          <stage type="entrance" who="#herr_von_kaltenbrunn #fraeulein_amalie">Herr von Kaltenbrunn. Fräulein Amalie. Dr. Hippokras.</stage>
           <sp who="#fraeulein_amalie">
             <speaker>FRÄULEIN AMALIE.</speaker>
             <p>Nun, mein lieber Herr Doktor, ich will es Ihnen nimmermehr vergessen, daß Sie uns
@@ -2651,7 +2651,7 @@
         </div>
         <div type="scene">
           <head>Zweiter Auftritt</head>
-          <stage type="entrance" who="#fraeulein_karoline #fraeulein_amalie #herr_von_kaltenbrunn">Die Vorigen. Fräulein Karoline.</stage>
+          <stage type="entrance" who="#fraeulein_karoline #herr_von_kaltenbrunn #fraeulein_amalie">Die Vorigen. Fräulein Karoline.</stage>
           <sp who="#fraeulein_amalie">
             <speaker>FRÄULEIN AMALIE</speaker>
             <stage>lächelnd.</stage>
@@ -3204,7 +3204,7 @@
         </div>
         <div type="scene">
           <head>Vierter Auftritt</head>
-          <stage type="entrance" who="#fraeulein_amalie #frau_von_tiefenborn #fraeulein_karoline">Frau von Tiefenborn. Fräulein Karoline. Fräulein Amalie.</stage>
+          <stage type="entrance" who="#frau_von_tiefenborn #fraeulein_amalie #fraeulein_karoline">Frau von Tiefenborn. Fräulein Karoline. Fräulein Amalie.</stage>
           <sp who="#frau_von_tiefenborn">
             <speaker>FRAU VON TIEFENBORN</speaker>
             <stage type="entrance" who="#frau_von_tiefenborn">kömmt matt gegangen, setzt sich auf einen Armsessel und stöhnt.</stage>
@@ -3589,7 +3589,7 @@
         </div>
         <div type="scene">
           <head>Sechster Auftritt</head>
-          <stage type="entrance" who="#fraeulein_karoline #frau_von_tiefenborn #landrat_von_ziegendorf">Frau von Tiefenborn. Fräulein Karoline. Herr Landrat von Ziegendorf.</stage>
+          <stage type="entrance" who="#landrat_von_ziegendorf #frau_von_tiefenborn #fraeulein_karoline">Frau von Tiefenborn. Fräulein Karoline. Herr Landrat von Ziegendorf.</stage>
           <sp who="#landrat_von_ziegendorf">
             <speaker>HERR VON ZIEGENDORF.</speaker>
             <p>Ich suche Sie allenthalben, Frau Schwester, und bin fast den ganzen Garten
@@ -4000,7 +4000,7 @@
         </div>
         <div type="scene">
           <head>Zweiter Auftritt</head>
-          <stage type="entrance" who="#fraeulein_amalie #herr_von_kaltenbrunn">Dr. Schlagbalsam. Herr von Kaltenbrunn. Fräulein Amalie.</stage>
+          <stage type="entrance" who="#herr_von_kaltenbrunn #fraeulein_amalie">Dr. Schlagbalsam. Herr von Kaltenbrunn. Fräulein Amalie.</stage>
           <sp who="#fraeulein_amalie">
             <speaker>FRÄULEIN AMALIE.</speaker>
             <p>Ihre Dienerin, Herr Doktor.</p>
@@ -4341,7 +4341,7 @@
         </div>
         <div type="scene">
           <head>Dritter Auftritt</head>
-          <stage type="entrance" who="#fraeulein_amalie #herr_von_kaltenbrunn">Die Vorigen. Herr Dr. Hippokras.</stage>
+          <stage type="entrance" who="#herr_von_kaltenbrunn #fraeulein_amalie">Die Vorigen. Herr Dr. Hippokras.</stage>
           <sp who="#dr_hippokras">
             <speaker>DR. HIPPOKRAS.</speaker>
             <p>Mein Herr Doktor Schlagbalsam, die Frau Oberstin begehrt Sie zu sprechen.</p>
@@ -4384,7 +4384,7 @@
         </div>
         <div type="scene">
           <head>Vierter Auftritt</head>
-          <stage type="entrance" who="#fraeulein_amalie #herr_von_kaltenbrunn">Fräulein Amalie. Herr von Kaltenbrunn.</stage>
+          <stage type="entrance" who="#herr_von_kaltenbrunn #fraeulein_amalie">Fräulein Amalie. Herr von Kaltenbrunn.</stage>
           <sp who="#herr_von_kaltenbrunn">
             <speaker>HERR VON KALTENBRUNN</speaker>
             <stage>nimmt die Amalie bei der Hand und springt mit ihr ein paarmal auf und
@@ -5003,7 +5003,7 @@
         <head>Der fünfte Aufzug</head>
         <div type="scene">
           <head>Erster Auftritt</head>
-          <stage type="entrance" who="#fraeulein_amalie #landrat_von_ziegendorf">Fräulein Amalie. Der Landrat von Ziegendorf.</stage>
+          <stage type="entrance" who="#landrat_von_ziegendorf #fraeulein_amalie">Fräulein Amalie. Der Landrat von Ziegendorf.</stage>
           <sp who="#landrat_von_ziegendorf">
             <speaker>HERR VON ZIEGENDORF.</speaker>
             <p>Nun, Fräulein Amalie, nun freuen Sie sich! der Notarius ist schon unterwegens, und in
@@ -5204,7 +5204,7 @@
         </div>
         <div type="scene">
           <head>Zweiter Auftritt</head>
-          <stage type="entrance" who="#herr_von_kreuzweg #fraeulein_amalie #landrat_von_ziegendorf">Die Vorigen. Herr von Kreuzweg.</stage>
+          <stage type="entrance" who="#herr_von_kreuzweg #landrat_von_ziegendorf #fraeulein_amalie">Die Vorigen. Herr von Kreuzweg.</stage>
           <sp who="#landrat_von_ziegendorf">
             <speaker>HERR VON ZIEGENDORF</speaker>
             <stage>lächelnd.</stage>
@@ -5364,7 +5364,7 @@
         </div>
         <div type="scene">
           <head>Dritter Auftritt</head>
-          <stage type="entrance" who="#ein_diener #herr_von_kreuzweg #fraeulein_amalie #landrat_von_ziegendorf">Die Vorigen. Ein Diener.</stage>
+          <stage type="entrance" who="#ein_diener #herr_von_kreuzweg #landrat_von_ziegendorf #fraeulein_amalie">Die Vorigen. Ein Diener.</stage>
           <sp who="#ein_diener">
             <speaker>DER DIENER.</speaker>
             <p>Mein Herr Landrat, die Frau Oberstin läßt Eure Gnaden bitten, Sie möchten sich doch
@@ -5530,7 +5530,7 @@
         </div>
         <div type="scene">
           <head>Fünfter Auftritt</head>
-          <stage type="entrance" who="#fraeulein_amalie #herr_von_kreuzweg #herr_von_kaltenbrunn">Fräulein Amalie. Herr von Kreuzweg. Herr von Kaltenbrunn.</stage>
+          <stage type="entrance" who="#herr_von_kaltenbrunn #fraeulein_amalie #herr_von_kreuzweg">Fräulein Amalie. Herr von Kreuzweg. Herr von Kaltenbrunn.</stage>
           <sp who="#herr_von_kaltenbrunn">
             <speaker>HERR VON KALTENBRUNN</speaker>
             <stage type="entrance" who="#herr_von_kaltenbrunn">kömmt hereingesprungen.</stage>
@@ -5662,7 +5662,7 @@
         </div>
         <div type="scene">
           <head>Sechster Auftritt</head>
-          <stage type="entrance" who="#fraeulein_karoline #fraeulein_amalie #herr_von_kreuzweg #herr_von_kaltenbrunn">Die Vorigen. Fräulein Karoline.</stage>
+          <stage type="entrance" who="#fraeulein_karoline #herr_von_kaltenbrunn #fraeulein_amalie #herr_von_kreuzweg">Die Vorigen. Fräulein Karoline.</stage>
           <sp who="#fraeulein_karoline">
             <speaker>FRÄULEIN KAROLINE</speaker>
             <stage>sieht sich herum.</stage>
@@ -5746,7 +5746,7 @@
         </div>
         <div type="scene">
           <head>Siebenter Auftritt</head>
-          <stage type="entrance" who="#fraeulein_karoline #fraeulein_amalie #herr_von_kreuzweg #herr_von_kaltenbrunn">Die Vorigen. Dr. Hippokras.</stage>
+          <stage type="entrance" who="#fraeulein_karoline #herr_von_kaltenbrunn #fraeulein_amalie #herr_von_kreuzweg">Die Vorigen. Dr. Hippokras.</stage>
           <sp who="#dr_hippokras">
             <speaker>DR. HIPPOKRAS.</speaker>
             <p>Die Frau Oberstin wird den Augenblick hier sein.</p>
@@ -5780,7 +5780,7 @@
         </div>
         <div type="scene">
           <head>Achter Auftritt</head>
-          <stage type="entrance" who="#landrat_von_ziegendorf #ein_diener #notarius">Es kömmt ein Diener und bringt einen Tisch, ein anderer bringt Feder, Tinte und
+          <stage type="entrance" who="#ein_diener #notarius #landrat_von_ziegendorf">Es kömmt ein Diener und bringt einen Tisch, ein anderer bringt Feder, Tinte und
             Papier und noch ein anderer zwei Lichte, hierauf kommen herein die Oberstin von
             Tiefenborn, der Landrat von Ziegendorf, Dr. Schlagbalsam, der Kapitän von Wagehals, der
             Notarius. Sie setzen sich alle. Dr. Schlagbalsam setzt sich zur Rechten der Oberstin.
@@ -6145,7 +6145,7 @@
         </div>
         <div type="scene">
           <head>Neunter Auftritt</head>
-          <stage type="entrance" who="#fraeulein_karoline #frau_von_tiefenborn #herr_von_kreuzweg #herr_von_kaltenbrunn #fraeulein_amalie #kammerherr_von_ziegendorf #landrat_von_ziegendorf">Frau von Tiefenborn. Fräulein Amalie. Fräulein Karoline. Herr Landrat von
+          <stage type="entrance" who="#fraeulein_amalie #fraeulein_karoline #frau_von_tiefenborn #herr_von_kreuzweg #herr_von_kaltenbrunn #landrat_von_ziegendorf #kammerherr_von_ziegendorf">Frau von Tiefenborn. Fräulein Amalie. Fräulein Karoline. Herr Landrat von
             Ziegendorf. Der Kammerherr von Ziegendorf. Herr von Kaltenbrunn. Herr von Kreuzweg. Dr.
             Hippokras.</stage>
           <stage>Sie stehen alle auf.</stage>

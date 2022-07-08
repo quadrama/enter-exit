@@ -184,7 +184,7 @@
         <stage>Im Schloß zu Fotheringhay – Ein Zimmer.</stage>
         <div type="scene">
           <head>Erster Auftritt</head>
-          <stage type="entrance" who="#paulet #kennedy #elisabeth">Hanna Kennedy, Amme der Königin von Schottland, in heftigem Streit mit Paulet, der
+          <stage type="entrance" who="#kennedy #paulet #elisabeth">Hanna Kennedy, Amme der Königin von Schottland, in heftigem Streit mit Paulet, der
             im Begriff ist, einen Schrank zu öffnen. Drugeon Drury, sein Gehilfe, mit
             Brecheisen.</stage>
           <sp who="#kennedy">
@@ -736,7 +736,7 @@
         <pb n="558"/>
         <div type="scene">
           <head>Dritter Auftritt</head>
-          <stage type="entrance" who="#mortimer #paulet #elisabeth #maria">Die Vorigen. Mortimer, Paulets Neffe, tritt herein und ohne der Königin einige
+          <stage type="entrance" who="#paulet #elisabeth #mortimer #maria">Die Vorigen. Mortimer, Paulets Neffe, tritt herein und ohne der Königin einige
             Aufmerksamkeit zu bezeugen, zu Paulet.</stage>
           <sp who="#mortimer">
             <speaker>MORTIMER.</speaker>
@@ -1041,7 +1041,7 @@
         </div>
         <div type="scene">
           <head>Sechster Auftritt</head>
-          <stage type="entrance" who="#mortimer #maria">Mortimer. Maria.</stage>
+          <stage type="entrance" who="#maria #mortimer">Mortimer. Maria.</stage>
           <sp who="#maria">
             <speaker>MARIA.</speaker>
             <lg>
@@ -1601,7 +1601,7 @@
         </div>
         <div type="scene">
           <head>Siebenter Auftritt</head>
-          <stage type="entrance" who="#burleigh #paulet #maria">Maria. Lord Burleigh, Großschatzmeister von England, und Ritter Paulet.</stage>
+          <stage type="entrance" who="#paulet #burleigh #maria">Maria. Lord Burleigh, Großschatzmeister von England, und Ritter Paulet.</stage>
           <sp who="#paulet">
             <speaker>PAULET.</speaker>
             <lg>
@@ -2142,7 +2142,7 @@
         </div>
         <div type="scene">
           <head>Achter Auftritt</head>
-          <stage type="entrance" who="#burleigh #paulet">Burleigh. Paulet.</stage>
+          <stage type="entrance" who="#paulet #burleigh">Burleigh. Paulet.</stage>
           <sp who="#burleigh">
             <speaker>BURLEIGH.</speaker>
             <lg>
@@ -2392,7 +2392,7 @@
         <stage>Der Palast zu Westminster.</stage>
         <div type="scene">
           <head>Erster Auftritt</head>
-          <stage type="entrance" who="#davison #kent">Der Graf von Kent und Sir William Davison begegnen einander.</stage>
+          <stage type="entrance" who="#kent #davison">Der Graf von Kent und Sir William Davison begegnen einander.</stage>
           <sp who="#davison">
             <speaker>DAVISON.</speaker>
             <lg>
@@ -2479,7 +2479,7 @@
         </div>
         <div type="scene">
           <head>Zweiter Auftritt</head>
-          <stage type="entrance" who="#bellievre #leicester #shrewsbury #burleigh #elisabeth #aubespine #davison #kent">Die Vorigen. Elisabeth, von Leicester geführt. Graf Aubespine, Bellievre, Graf
+          <stage type="entrance" who="#aubespine #shrewsbury #elisabeth #leicester #burleigh #bellievre #kent #davison">Die Vorigen. Elisabeth, von Leicester geführt. Graf Aubespine, Bellievre, Graf
             Shrewsbury, Lord Burleigh mit noch andern französischen und englischen Herren treten
             auf.</stage>
           <sp who="#elisabeth">
@@ -2715,7 +2715,7 @@
         <pb n="589"/>
         <div type="scene">
           <head>Dritter Auftritt</head>
-          <stage type="entrance" who="#burleigh #shrewsbury #leicester #elisabeth">Elisabeth. Leicester. Burleigh. Talbot.</stage>
+          <stage type="entrance" who="#shrewsbury #leicester #burleigh #elisabeth">Elisabeth. Leicester. Burleigh. Talbot.</stage>
           <stage>Die Königin setzt sich.</stage>
           <sp who="#burleigh">
             <speaker>BURLEIGH.</speaker>
@@ -3030,7 +3030,7 @@
         </div>
         <div type="scene">
           <head>Vierter Auftritt</head>
-          <stage type="entrance" who="#mortimer #paulet #burleigh #shrewsbury #leicester #elisabeth">Die Vorigen. Ritter Paulet mit Mortimern.</stage>
+          <stage type="entrance" who="#paulet #mortimer #shrewsbury #leicester #burleigh #elisabeth">Die Vorigen. Ritter Paulet mit Mortimern.</stage>
           <sp who="#elisabeth">
             <speaker>ELISABETH.</speaker>
             <lg>
@@ -3313,7 +3313,7 @@
         <pb n="599"/>
         <div type="scene">
           <head>Fünfter Auftritt</head>
-          <stage type="entrance" who="#mortimer #elisabeth">Elisabeth. Mortimer.</stage>
+          <stage type="entrance" who="#elisabeth #mortimer">Elisabeth. Mortimer.</stage>
           <sp who="#elisabeth">
             <speaker>ELISABETH</speaker>
             <stage>nachdem sie ihn einige Augenblicke forschend mit den Augen gemessen.</stage>
@@ -3510,7 +3510,7 @@
         <pb n="602"/>
         <div type="scene">
           <head>Siebenter Auftritt</head>
-          <stage type="entrance" who="#mortimer #paulet">Mortimer. Paulet.</stage>
+          <stage type="entrance" who="#paulet #mortimer">Mortimer. Paulet.</stage>
           <sp who="#paulet">
             <speaker>PAULET.</speaker>
             <l>Was sagte dir die Königin?</l>
@@ -3618,7 +3618,7 @@
         </div>
         <div type="scene">
           <head>Achter Auftritt</head>
-          <stage type="entrance" who="#mortimer #leicester">Leicester. Mortimer.</stage>
+          <stage type="entrance" who="#leicester #mortimer">Leicester. Mortimer.</stage>
           <sp who="#leicester">
             <speaker>LEICESTER</speaker>
             <stage>verwundert.</stage>
@@ -5681,7 +5681,7 @@
         </div>
         <div type="scene">
           <head>Siebenter Auftritt</head>
-          <stage type="entrance" who="#mortimer #paulet">Mortimer. Paulet und Drury, welche außer sich hereinstürzen.</stage>
+          <stage type="entrance" who="#paulet #mortimer">Mortimer. Paulet und Drury, welche außer sich hereinstürzen.</stage>
           <stage>Gefolge eilt über die Szene.</stage>
           <sp who="#paulet">
             <speaker>PAULET.</speaker>
@@ -5725,7 +5725,7 @@
         </div>
         <div type="scene">
           <head>Achter Auftritt</head>
-          <stage type="entrance" who="#mortimer #okelly">Mortimer. Gleich darauf Okelly.</stage>
+          <stage type="entrance" who="#okelly #mortimer">Mortimer. Gleich darauf Okelly.</stage>
           <sp who="#mortimer">
             <speaker>MORTIMER.</speaker>
             <lg>
@@ -5871,7 +5871,7 @@
         <stage>Vorzimmer.</stage>
         <div type="scene">
           <head>Erster Auftritt</head>
-          <stage type="entrance" who="#kent #aubespine #leicester">Graf Aubespine. Kent und Leicester.</stage>
+          <stage type="entrance" who="#aubespine #leicester #kent">Graf Aubespine. Kent und Leicester.</stage>
           <sp who="#aubespine">
             <speaker>AUBESPINE.</speaker>
             <lg>
@@ -5904,7 +5904,7 @@
         </div>
         <div type="scene">
           <head>Zweiter Auftritt</head>
-          <stage type="entrance" who="#burleigh #davison #kent #aubespine #leicester">Vorige. Burleigh im Gespräch mit Davison.</stage>
+          <stage type="entrance" who="#burleigh #davison #aubespine #leicester #kent">Vorige. Burleigh im Gespräch mit Davison.</stage>
           <sp who="#burleigh">
             <speaker>BURLEIGH.</speaker>
             <lg>
@@ -6091,13 +6091,13 @@
           <sp who="#burleigh">
             <speaker>BURLEIGH.</speaker>
             <l>Er hole sie!</l>
-            <stage type="exit" who="#kent #aubespine">Kent und Aubespine gehen ab.</stage>
+            <stage type="exit" who="#aubespine #kent">Kent und Aubespine gehen ab.</stage>
           </sp>
         </div>
         <pb n="637"/>
         <div type="scene">
           <head>Dritter Auftritt</head>
-          <stage type="entrance" who="#burleigh #leicester">Leicester und Burleigh.</stage>
+          <stage type="entrance" who="#leicester #burleigh">Leicester und Burleigh.</stage>
           <sp who="#leicester">
             <speaker>LEICESTER.</speaker>
             <lg>
@@ -6206,7 +6206,7 @@
         </div>
         <div type="scene">
           <head>Vierter Auftritt</head>
-          <stage type="entrance" who="#mortimer #leicester">Leicester allein, darauf Mortimer.</stage>
+          <stage type="entrance" who="#leicester #mortimer">Leicester allein, darauf Mortimer.</stage>
           <sp who="#leicester">
             <speaker>LEICESTER.</speaker>
             <lg>
@@ -7449,7 +7449,7 @@
         </div>
         <div type="scene">
           <head>Eilfter Auftritt</head>
-          <stage type="entrance" who="#davison #elisabeth">Elisabeth. Davison.</stage>
+          <stage type="entrance" who="#elisabeth #davison">Elisabeth. Davison.</stage>
           <sp who="#elisabeth">
             <speaker>ELISABETH.</speaker>
             <l>Wo sind die andern Lords?</l>
@@ -7649,7 +7649,7 @@
         <pb n="659"/>
         <div type="scene">
           <head>Zwölfter Auftritt</head>
-          <stage type="entrance" who="#davison #burleigh">Davison, gleich darauf Burleigh.</stage>
+          <stage type="entrance" who="#burleigh #davison">Davison, gleich darauf Burleigh.</stage>
           <sp who="#davison">
             <speaker>DAVISON.</speaker>
             <lg>
@@ -7741,7 +7741,7 @@
         <stage>Die Szene ist das Zimmer des ersten Aufzugs.</stage>
         <div type="scene">
           <head>Erster Auftritt</head>
-          <stage type="entrance" who="#paulet #kennedy #melvil">Hanna Kennedy in tiefe Trauer gekleidet, mit verweinten Augen und einem großen,
+          <stage type="entrance" who="#kennedy #paulet #melvil">Hanna Kennedy in tiefe Trauer gekleidet, mit verweinten Augen und einem großen,
             aber stillen Schmerz, ist beschäftigt, Pakete und Briefe zu versiegeln. Oft unterbricht
             sie der Jammer in ihrem Geschäft, und man sieht sie dazwischen still beten. Paulet und
             Drury, gleichfalls in schwarzen Kleidern, treten ein, ihnen folgen viele Bediente,
@@ -7907,7 +7907,7 @@
         </div>
         <div type="scene">
           <head>Zweiter Auftritt</head>
-          <stage type="entrance" who="#kurl #paulet #kennedy #melvil">Margareta Kurl zu den Vorigen.</stage>
+          <stage type="entrance" who="#kurl #kennedy #paulet #melvil">Margareta Kurl zu den Vorigen.</stage>
           <sp who="#kennedy">
             <speaker>KENNEDY.</speaker>
             <l>Was bringt Ihr, Mistreß? Ist die Lady wach?</l>
@@ -7994,7 +7994,7 @@
         </div>
         <div type="scene">
           <head>Dritter Auftritt</head>
-          <stage type="entrance" who="#kennedy #burgoyn">Burgoyn zu den Vorigen. Hernach Hanna Kennedy.</stage>
+          <stage type="entrance" who="#burgoyn #kennedy">Burgoyn zu den Vorigen. Hernach Hanna Kennedy.</stage>
           <sp who="#burgoyn">
             <speaker>BURGOYN</speaker>
             <stage>erblickt Melvil.</stage>
@@ -8693,7 +8693,7 @@
         </div>
         <div type="scene">
           <head>Achter Auftritt</head>
-          <stage type="entrance" who="#burleigh #paulet #leicester #elisabeth #maria #melvil">Die Vorigen. Burleigh. Leicester und Paulet. Leicester bleibt ganz in der
+          <stage type="entrance" who="#leicester #paulet #burleigh #elisabeth #maria #melvil">Die Vorigen. Burleigh. Leicester und Paulet. Leicester bleibt ganz in der
             Entfernung stehen, ohne die Augen aufzuschlagen. Burleigh, der seine Fassung beobachtet,
             tritt zwischen ihn und die Königin.</stage>
           <sp who="#burleigh">
@@ -8792,7 +8792,7 @@
         </div>
         <div type="scene">
           <head>Neunter Auftritt</head>
-          <stage type="entrance" who="#kennedy #elisabeth #burleigh #paulet #leicester #maria #melvil">Die Vorigen. Hanna Kennedy und die andern Frauen der Königin dringen herein mit
+          <stage type="entrance" who="#kennedy #elisabeth #leicester #paulet #burleigh #maria #melvil">Die Vorigen. Hanna Kennedy und die andern Frauen der Königin dringen herein mit
             Zeichen des Entsetzens, ihnen folgt der Sheriff, einen weißen Stab in der Hand, hinter
             demselben sieht man durch die offenbleibende Tür gewaffnete Männer.</stage>
           <sp who="#maria">
@@ -8897,7 +8897,7 @@
               <l>Mög Euer Lohn nicht Eure Strafe werden!</l>
               <l>Lebt wohl! – Jetzt hab ich nichts mehr auf der Erden!</l>
             </lg>
-            <stage type="exit" who="#burleigh #paulet #melvil">Sie geht ab, der Sheriff voraus, Melvil und die Amme ihr zur Seite, Burleigh und
+            <stage type="exit" who="#paulet #burleigh #melvil">Sie geht ab, der Sheriff voraus, Melvil und die Amme ihr zur Seite, Burleigh und
               Paulet folgen, die übrigen sehen ihr jammernd nach, bis sie verschwunden ist, dann
               entfernen sie sich durch die zwei andern Türen.</stage>
           </sp>
@@ -9265,7 +9265,7 @@
         </div>
         <div type="scene">
           <head>Letzter Auftritt</head>
-          <stage type="entrance" who="#burleigh #kent #davison #shrewsbury #elisabeth">Die Vorigen. Burleigh, zuletzt Kent.</stage>
+          <stage type="entrance" who="#kent #burleigh #davison #shrewsbury #elisabeth">Die Vorigen. Burleigh, zuletzt Kent.</stage>
           <sp who="#burleigh">
             <speaker>BURLEIGH</speaker>
             <stage>beugt ein Knie vor der Königin.</stage>

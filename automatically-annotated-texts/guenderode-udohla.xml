@@ -128,7 +128,7 @@
       <div type="act">
         <head>Erster Akt</head>
         <stage>Zimmer im Pallast zu Delhi.</stage>
-        <stage>Mangu und Sino.</stage>
+        <stage type="entrance" who="#sino #mangu">Mangu und Sino.</stage>
         <sp who="#mangu">
           <speaker>MANGU.</speaker>
           <lg>
@@ -201,7 +201,7 @@
             <l>Doch still davon, wir sollen nur gehorchen,</l>
             <l>Und unsre Meinung kommt hier viel zu spät.</l>
           </lg>
-          <stage>Derwisch kommt.</stage>
+          <stage type="entrance" who="#derwisch">Derwisch kommt.</stage>
         </sp>
         <sp who="#derwisch">
           <speaker>DERWISCH.</speaker>
@@ -328,7 +328,7 @@
             <l>Zu Männern dieses weiche Volk zu bilden,</l>
             <l>Allein unmünd'ge Kinder bleiben sie.</l>
           </lg>
-          <stage>Der Sultan kommt. Alle werfen sich nieder.</stage>
+          <stage type="entrance" who="#sultan">Der Sultan kommt. Alle werfen sich nieder.</stage>
         </sp>
         <sp who="#sultan">
           <speaker>SULTAN.</speaker>
@@ -427,7 +427,7 @@
             <l>Genug davon. Ich habe euch vernommen</l>
             <l>Entfernet euch. Sino! Bleibe du bei mir.</l>
           </lg>
-          <stage>Mangu und Derwisch ab.</stage>
+          <stage type="exit" who="#mangu #derwisch">Mangu und Derwisch ab.</stage>
           <lg>
             <l>Warum o Schicksal, muß ich diese lieben?</l>
             <l>Die Einzige die du mir hast versagt.</l>
@@ -602,7 +602,7 @@
             <l>Wenn keiner ihrer heilgen Stimme lauschet,</l>
             <l>Weil ihren Dienst ein rauh Geschlecht verschmäht.</l>
           </lg>
-          <stage>Sultan und Sino kommen.</stage>
+          <stage type="entrance" who="#sino #sultan">Sultan und Sino kommen.</stage>
         </sp>
         <sp who="#sultan">
           <speaker>SULTAN.</speaker>
@@ -668,7 +668,7 @@
             <l>Was soll ich thun? Auf welche Rettung sinnen?</l>
             <l>Ist keine Hülfe, ist kein Rath mehr da?</l>
           </lg>
-          <stage>Mangu kommt.</stage>
+          <stage type="entrance" who="#mangu">Mangu kommt.</stage>
         </sp>
         <sp who="#mangu">
           <speaker>MANGU.</speaker>
@@ -756,7 +756,7 @@
         <sp who="#nerissa">
           <speaker>NERISSA.</speaker>
           <l>Wie wird mir! Elpa! führe mich von hier.</l>
-          <stage>Ab mit Elpa.</stage>
+          <stage type="entrance" who="#elpa">Ab mit Elpa.</stage>
         </sp>
         <sp who="#sultan">
           <speaker>SULTAN.</speaker>
@@ -764,7 +764,7 @@
             <l>Komm Mangu! Laß uns zur Prinzessin eilen,</l>
             <l>Und Sino du! erklär ihm was geschah.</l>
           </lg>
-          <stage>Ab mit Mangu.</stage>
+          <stage type="entrance" who="#mangu">Ab mit Mangu.</stage>
           <stage>Lange Pause, Udohla bleibt eine Weile auf den Knien liegen, steht dann langsam
             auf.</stage>
         </sp>
@@ -857,7 +857,7 @@
             <l>Des lieben Tages, den ich kaum gesehen,</l>
             <l>Von dem ich jetzo trauernd scheiden muß.</l>
           </lg>
-          <stage>Er zieht den Dolch; Sino hält ihn ab.</stage>
+          <stage type="exit" who="#sino">Er zieht den Dolch; Sino hält ihn ab.</stage>
         </sp>
         <sp who="#sino">
           <speaker>SINO.</speaker>
@@ -915,7 +915,7 @@
             <l>Geh! Such ihn! ruf ihn! denn ich muß ihn sehen,</l>
             <l>Ich muß ihn sprechen, führe ihn hierher.</l>
           </lg>
-          <stage>Elpa ab.</stage>
+          <stage type="exit" who="#elpa">Elpa ab.</stage>
           <lg>
             <l>Wie ist mir nun? Weh, weh mir Unglücksvollen!</l>
             <l>Die Götter Indiens verlassen mich,</l>
@@ -928,7 +928,7 @@
             <l>Und namenloser Jammer ist mir worden. –</l>
             <l>Da kommt er! Ach! wie klopft mein krankes Herz!</l>
           </lg>
-          <stage>Udohla und Elpa kommen. Elpa tritt zurück.</stage>
+          <stage type="entrance" who="#udohla #elpa">Udohla und Elpa kommen. Elpa tritt zurück.</stage>
         </sp>
         <sp who="#udohla">
           <speaker>UDOHLA.</speaker>
@@ -1031,7 +1031,7 @@
             <l>Wie ich der Unglücksel'gen denken werde</l>
             <l>Die durch mich errettet wissen willst.</l>
           </lg>
-          <stage>Ab mit Elpa.</stage>
+          <stage type="entrance" who="#elpa">Ab mit Elpa.</stage>
           <pb n="110"/>
         </sp>
         <sp who="#udohla">
@@ -1090,7 +1090,7 @@
             <l>So such ihn auf und laß ihn zu mir kommen,</l>
             <l>Bis dahin aber will ich einsam seyn.</l>
           </lg>
-          <stage>Ab.</stage>
+          <stage type="exit" who="#sultan">Ab.</stage>
         </sp>
         <sp who="#sino">
           <speaker>SINO.</speaker>
@@ -1131,7 +1131,7 @@
             <l>Ich weiß, du wirst mich nimmer kennen lernen,</l>
             <l>Unmöglich ist's, was hofft ich auch darauf?</l>
           </lg>
-          <stage>Mangu bleibt eine Weile gedankenvoll stehn, geht dann ab.</stage>
+          <stage type="exit" who="#mangu">Mangu bleibt eine Weile gedankenvoll stehn, geht dann ab.</stage>
           <lg>
             <l>So brich denn endlich deines Schweigens Bande</l>
             <l>Mein lang gezähmt nur allzu duldsam Herz!</l>
@@ -1156,7 +1156,7 @@
             <l>Sie leben, neu die Welt sich zu erzeugen,</l>
             <l>Vielleicht ist schon die schönre Stunde nah.</l>
           </lg>
-          <stage>Mangu kommt.</stage>
+          <stage type="entrance" who="#mangu">Mangu kommt.</stage>
           <pb n="113"/>
         </sp>
         <sp who="#mangu">
@@ -1242,7 +1242,7 @@
             <l>Es schwimmt ein lieblich Bild vor meinem Auge</l>
             <l>Das ich so gerne Bruder nennen mag.</l>
           </lg>
-          <stage>Elpa kommt.</stage>
+          <stage type="entrance" who="#elpa">Elpa kommt.</stage>
           <pb n="115"/>
         </sp>
         <sp who="#elpa">
@@ -1302,7 +1302,7 @@
             <l>Komm, eh der Sultan so gestimmt dich findet,</l>
             <l>Erscheinen darfst du also nicht vor ihm.</l>
           </lg>
-          <stage>Beide ab. Udohla kommt.</stage>
+          <stage type="entrance" who="#udohla #elpa">Beide ab. Udohla kommt.</stage>
         </sp>
         <sp who="#udohla">
           <speaker>UDOHLA.</speaker>
@@ -1313,7 +1313,7 @@
             <l>Der Himmel jauchzt mir ihren Namen nach,</l>
             <l>Ihn flüstern leise alle Frühlings-Lüfte –</l>
           </lg>
-          <stage>Sino kommt.</stage>
+          <stage type="entrance" who="#sino">Sino kommt.</stage>
         </sp>
         <sp who="#sino">
           <speaker>SINO.</speaker>
@@ -1407,7 +1407,7 @@
             <l>Und dennoch muß ich stets auf Rettung sinnen,</l>
             <l>Und ungern wie mich selbst geb ich dich auf.</l>
           </lg>
-          <stage>Der Sultan, Mangu und Gefolge kommen.</stage>
+          <stage type="entrance" who="#mangu #sultan">Der Sultan, Mangu und Gefolge kommen.</stage>
         </sp>
         <sp who="#sultan">
           <speaker>SULTAN</speaker>
@@ -1437,7 +1437,7 @@
             <l>Wenn du gebietest, Herr! so muß ich sterben.</l>
             <l>Ich weiß es, und ich bin darauf gefaßt.</l>
           </lg>
-          <stage>Nerissa und Mangu kommen.</stage>
+          <stage type="entrance" who="#mangu #nerissa">Nerissa und Mangu kommen.</stage>
         </sp>
         <sp who="#sultan">
           <speaker>SULTAN</speaker>
@@ -1541,7 +1541,7 @@
             <l>Nerissa, geh! Du hast mein Herzt zerrissen,</l>
             <l>Ich werde traurend zu den Todten gehn.</l>
           </lg>
-          <stage>Ab.</stage>
+          <stage type="exit" who="#sultan">Ab.</stage>
         </sp>
         <sp who="#udohla">
           <speaker>UDOHLA.</speaker>
