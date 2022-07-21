@@ -465,7 +465,7 @@
         </div>
         <div type="scene">
           <head>Der vierte Auftritt</head>
-          <stage type="entrance" who="#betty #lucie">Lucie. Betty.</stage>
+          <stage type="entrance" who="#lucie #betty">Lucie. Betty.</stage>
           <sp who="#lucie">
             <speaker>LUCIE.</speaker>
             <p>Unterstütze mich, Betty. Alle meine Kräfte sind erschöpft – O Tugend! Tugend, wie
@@ -561,7 +561,7 @@
         </div>
         <div type="scene">
           <head>Der fünfte Auftritt</head>
-          <stage type="entrance" who="#karl #betty #lucie">Die Vorigen und Karl Southwell.</stage>
+          <stage type="entrance" who="#karl #lucie #betty">Die Vorigen und Karl Southwell.</stage>
           <sp who="#karl">
             <speaker>KARL</speaker>
             <stage>beiseite, indem er eine Bewegung machet, als ob er zurückgehen wollte.</stage>
@@ -679,7 +679,7 @@
           <sp who="#lucie">
             <speaker>LUCIE.</speaker>
             <p>Ich verstehe Sie, Karl. Warum reden Sie dunkel? Sie verlangen, ich soll die Rechte
-              Ihrer Gemahlin gegen die Ehre, Ihre Mätresse zu sein, vertauschen. <stage type="entrance" who="#betty">Zur
+              Ihrer Gemahlin gegen die Ehre, Ihre Mätresse zu sein, vertauschen. <stage>Zur
                 Betty.</stage> Betty! ich bin verloren. <stage>Zum Southwell.</stage> Verlassen Sie
               mich, Barbar! Ich verabscheue Sie.</p>
           </sp>
@@ -939,7 +939,7 @@
         <head>Die zweite Handlung</head>
         <div type="scene">
           <head>Der erste Auftritt</head>
-          <stage type="entrance" who="#jakob #karl">Karl Southwell. Jakob.</stage>
+          <stage type="entrance" who="#karl #jakob">Karl Southwell. Jakob.</stage>
           <sp who="#karl">
             <speaker>KARL.</speaker>
             <p>Was sagst du, Jakob? daß ich Lucien verlieren würde?</p>
@@ -1377,7 +1377,7 @@
         </div>
         <div type="scene">
           <head>Der vierte Auftritt</head>
-          <stage type="entrance" who="#robert #willhelm">Robert. Willhelm. Southwell.</stage>
+          <stage type="entrance" who="#willhelm #robert">Robert. Willhelm. Southwell.</stage>
           <sp who="#robert">
             <speaker>ROBERT</speaker>
             <stage>indem er seinem Freunde begegnet.</stage>
@@ -1434,7 +1434,7 @@
         </div>
         <div type="scene">
           <head>Der fünfte Auftritt</head>
-          <stage type="entrance" who="#karl #robert #willhelm">Die Vorigen. Karl Southwell.</stage>
+          <stage type="entrance" who="#karl #willhelm #robert">Die Vorigen. Karl Southwell.</stage>
           <sp who="#willhelm">
             <speaker>WILLHELM.</speaker>
             <p>Freue dich, mein Sohn, du wirst die Belohnung der Tugend erhalten, wenn du diese
@@ -1552,7 +1552,7 @@
         </div>
         <div type="scene">
           <head>Der sechste Auftritt</head>
-          <stage type="entrance" who="#jakob #karl #robert #willhelm">Die Vorigen und Jakob.</stage>
+          <stage type="entrance" who="#jakob #karl #willhelm #robert">Die Vorigen und Jakob.</stage>
           <sp who="#jakob">
             <speaker>JAKOB.</speaker>
             <p>Der Bediente des Herrn Betterton verlangt Sie zu sprechen.</p>
@@ -1574,7 +1574,7 @@
         </div>
         <div type="scene">
           <head>Der siebente Auftritt</head>
-          <stage type="entrance" who="#jakob #karl">Karl Southwell. Jakob.</stage>
+          <stage type="entrance" who="#karl #jakob">Karl Southwell. Jakob.</stage>
           <sp who="#karl">
             <speaker>KARL.</speaker>
             <p>Laß sie ihre Kunst zu sterben lernen, Jakob. Karl, der glückliche Karl versteht die
@@ -1638,7 +1638,7 @@
         </div>
         <div type="scene">
           <head>Der achte Auftritt</head>
-          <stage type="entrance" who="#betty #jakob #karl">Die Vorigen. Betty kömmt.</stage>
+          <stage type="entrance" who="#betty #karl #jakob">Die Vorigen. Betty kömmt.</stage>
           <sp who="#betty">
             <speaker>BETTY.</speaker>
             <p>Verzeihen Sie, Amalie kömmt, Sie zu sprechen.</p>
@@ -1656,10 +1656,10 @@
         </div>
         <div type="scene">
           <head>Der neunte Auftritt</head>
-          <stage type="entrance" who="#betty #lucie #karl">Karl Southwell. Betty. Lucie kömmt.</stage>
+          <stage type="entrance" who="#lucie #karl #betty">Karl Southwell. Betty. Lucie kömmt.</stage>
           <sp who="#karl">
             <speaker>KARL</speaker>
-            <stage type="entrance" who="#betty #lucie">zur Betty, indem er Lucien erblicket.</stage>
+            <stage>zur Betty, indem er Lucien erblicket.</stage>
             <p>Nichtswürdige Kreatur! <stage>Er will weggehen. Lucie hält ihn zurück.</stage></p>
             <pb n="219"/>
           </sp>
@@ -1751,7 +1751,7 @@
         </div>
         <div type="scene">
           <head>Der zehnte Auftritt</head>
-          <stage type="entrance" who="#betty #lucie">Lucie und Betty.</stage>
+          <stage type="entrance" who="#lucie #betty">Lucie und Betty.</stage>
           <sp who="#lucie">
             <speaker>LUCIE.</speaker>
             <p>Ich habe das Herz des Barbaren gerührt, Betty. Aber schrecklicher Sieg! Er hat mir
@@ -1969,7 +1969,7 @@
         </div>
         <div type="scene">
           <head>Der dritte Auftritt</head>
-          <stage type="entrance" who="#betty #lucie">Betty. Lucie.</stage>
+          <stage type="entrance" who="#lucie #betty">Betty. Lucie.</stage>
           <sp who="#lucie">
             <speaker>LUCIE.</speaker>
             <p>Gib den unglücklichen Brief zurück, Betty. Alle List ist vergeblich. Wut, Wut ist
@@ -2042,7 +2042,7 @@
         </div>
         <div type="scene">
           <head>Der vierte Auftritt</head>
-          <stage type="entrance" who="#karl #amalie #betty #lucie">Die Vorigen. Amalie und Karl Southwell.</stage>
+          <stage type="entrance" who="#karl #amalie #lucie #betty">Die Vorigen. Amalie und Karl Southwell.</stage>
           <sp who="#karl">
             <speaker>KARL.</speaker>
             <p>Wohin, grausame Lucie? Sehen Sie dies Opfer, das Sie suchen zu Ihren Füßen. Töten Sie
@@ -2171,7 +2171,7 @@
         </div>
         <div type="scene">
           <head><pb n="228"/> Der fünfte Auftritt</head>
-          <stage type="entrance" who="#betty #robert">Betty. Sir Robert.</stage>
+          <stage type="entrance" who="#robert #betty">Betty. Sir Robert.</stage>
           <sp who="#robert">
             <speaker>ROBERT.</speaker>
             <p>War es nicht deine Fräulein, Betty, die ich mit Karln und meiner Tochter über den
@@ -2200,7 +2200,7 @@
         </div>
         <div type="scene">
           <head>Der sechste Auftritt</head>
-          <stage type="entrance" who="#robert #willhelm">Sir Robert. Sir Willhelm.</stage>
+          <stage type="entrance" who="#willhelm #robert">Sir Robert. Sir Willhelm.</stage>
           <sp who="#robert">
             <speaker>ROBERT.</speaker>
             <p>Was für einen reizenden Anblick hast du versäumt, Willhelm! Wärest du wenige Minuten
@@ -2243,7 +2243,7 @@
         </div>
         <div type="scene">
           <head>Der siebente Auftritt</head>
-          <stage type="entrance" who="#jakob #robert #willhelm">Die Vorigen und Jakob.</stage>
+          <stage type="entrance" who="#jakob #willhelm #robert">Die Vorigen und Jakob.</stage>
           <sp who="#jakob">
             <speaker>JAKOB.</speaker>
             <p>Ihr Herr Sohn bittet um Erlaubnis, Ihnen aufzuwarten.</p>
@@ -2667,7 +2667,7 @@
         </div>
         <div type="scene">
           <head>Der andere Auftritt</head>
-          <stage type="entrance" who="#betty #lucie">Lucie. Betty.</stage>
+          <stage type="entrance" who="#lucie #betty">Lucie. Betty.</stage>
           <sp who="#betty">
             <speaker>BETTY.</speaker>
             <p>Hier, Fräulein, lesen Sie diesen Brief. Er ist von Sir Karln. Vielleicht können Sie
@@ -2963,7 +2963,7 @@
         </div>
         <div type="scene">
           <head>Der sechste Auftritt</head>
-          <stage type="entrance" who="#willhelm #robert #lucie #karl">Sir Willhelm. Sir Robert. Sir Karl und Lucie.</stage>
+          <stage type="entrance" who="#willhelm #lucie #robert #karl">Sir Willhelm. Sir Robert. Sir Karl und Lucie.</stage>
           <sp who="#willhelm">
             <speaker>WILLHELM</speaker>
             <stage>zu Robert.</stage>
@@ -3434,7 +3434,7 @@
         <head>Die fünfte Handlung</head>
         <div type="scene">
           <head>Der erste Auftritt</head>
-          <stage type="entrance" who="#betty #lucie">Lucie und Betty.</stage>
+          <stage type="entrance" who="#lucie #betty">Lucie und Betty.</stage>
           <sp who="#betty">
             <speaker>BETTY.</speaker>
             <p>Nunmehr, da alles bereit ist, da Sie in einem Augenblicke so glücklich sein können,
@@ -3767,7 +3767,7 @@
         </div>
         <div type="scene">
           <head>Der sechste Auftritt</head>
-          <stage type="entrance" who="#betty #lucie">Lucie und Betty.</stage>
+          <stage type="entrance" who="#lucie #betty">Lucie und Betty.</stage>
           <sp who="#lucie">
             <speaker>LUCIE.</speaker>
             <p>Tyranne! gib mir die Unschuld wieder, die du mir geraubet hast, gib sie mir selbst,
@@ -3887,7 +3887,7 @@
         </div>
         <div type="scene">
           <head>Der siebente Auftritt</head>
-          <stage type="entrance" who="#karl #betty #lucie">Die Vorigen und Sir Karl.</stage>
+          <stage type="entrance" who="#karl #lucie #betty">Die Vorigen und Sir Karl.</stage>
           <sp who="#karl">
             <speaker>KARL</speaker>
             <stage>in einiger Entfernung.</stage>

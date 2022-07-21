@@ -47,7 +47,7 @@ exit12 = re.compile(r'\beil(t|en)\b.{,20}\bab\b')
 
 #regular expressions for words that may not appear with other regex
 wrongWord = re.compile(r'\bwill\b')
-wrongWord2 = re.compile(r'\blaut\b|\bleise\b|\bzu(m)?\b.(?!pferd)|\bgegen\b|\bentgegen\b|\bweisend\b') # e.g. "zu XY" (talking) -> no entrance, but "zu Pferde" marks an entrance
+wrongWord2 = re.compile(r'\blaut\b|\bleise\b|\bzu(m|r)?\b(?!\spferd)|\bgegen\b|\bentgegen\b|\bweisend\b') # e.g. "zu XY" (talking) -> no entrance, but "zu Pferde" marks an entrance
 
 
 def readPersonList(personElements: list) -> dict:
@@ -64,7 +64,7 @@ def readPersonList(personElements: list) -> dict:
 
     for person in personElements:
         id = person.attrib['{http://www.w3.org/XML/1998/namespace}id']
-        names = person.xpath('.//tei:persName', namespaces=namespace) #get all names of persons (even variants)
+        names = person.xpath('.//tei:persName | .//tei:name', namespaces=namespace) #get all names of persons (even variants)
         for name in names:
             name = name.text.lower()
             name = name.translate(str.maketrans("", "", string.punctuation))
@@ -270,6 +270,8 @@ for file in os.listdir(directory):
 
                     if 'who' in s.attrib:
                         persons +=" "+ s.attrib['who']
+                        words = persons.split()
+                        persons = " ".join(sorted(set(words), key=words.index))  #remove duplicates
                     presentPersons = addPersons(presentPersons, persons)
                     s.set("who", persons)
 
@@ -286,6 +288,8 @@ for file in os.listdir(directory):
 
                     if 'who' in s.attrib:
                         persons +=" "+ s.attrib['who']
+                        words = persons.split()
+                        persons = " ".join(sorted(set(words), key=words.index))  #remove duplicates
                     s.set("who", persons)
 
                     previousPersons = removePersons(previousPersons, persons)
@@ -304,13 +308,8 @@ for file in os.listdir(directory):
                     else:
                         s.set("type", "entrance")
                         s.set("who", persons)
+                        presentPersons = removePersons(presentPersons, persons)
 
-                    for element in s.iterancestors('{http://www.tei-c.org/ns/1.0}sp'):  #looking for a parent sp-Tag to get person that is currently speaking
-                        if persons == "":
-                            persons = element.attrib['who']
-
-                    if 'who' in s.attrib:
-                        persons +=" "+ s.attrib['who']
 
                 #### check if sentence contains no verbs but person names ####
                 else: 

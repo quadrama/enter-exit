@@ -1577,7 +1577,7 @@
         </div>
         <div type="scene">
           <head>Dritter Auftritt</head>
-          <stage type="entrance" who="#herr_von_kaltenbrunn #fraeulein_amalie #fraeulein_karoline #herr_von_kreuzweg">Fräulein Amalie. Fräulein Karoline. Herr von Kaltenbrunn. Herr von
+          <stage type="entrance" who="#herr_von_kaltenbrunn #fraeulein_amalie #herr_von_kreuzweg #fraeulein_karoline">Fräulein Amalie. Fräulein Karoline. Herr von Kaltenbrunn. Herr von
             Kreuzweg.</stage>
           <sp who="#herr_von_kreuzweg">
             <speaker>HERR VON KREUZWEG.</speaker>
@@ -1660,7 +1660,7 @@
         </div>
         <div type="scene">
           <head>Vierter Auftritt</head>
-          <stage type="entrance" who="#fraeulein_karoline #herr_von_kreuzweg">Fräulein Karoline. Herr von Kreuzweg.</stage>
+          <stage type="entrance" who="#herr_von_kreuzweg #fraeulein_karoline">Fräulein Karoline. Herr von Kreuzweg.</stage>
           <sp who="#fraeulein_karoline">
             <speaker>FRÄULEIN KAROLINE.</speaker>
             <p>Setzen Sie sich doch, mein Herr von Kreuzweg. <stage>Sie setzen sich beide. Karoline
@@ -1755,7 +1755,7 @@
         </div>
         <div type="scene">
           <head>Fünfter Auftritt</head>
-          <stage type="entrance" who="#herr_von_kaltenbrunn #fraeulein_karoline #herr_von_kreuzweg">Fräulein Karoline. Herr von Kreuzweg. Herr von Kaltenbrunn.</stage>
+          <stage type="entrance" who="#herr_von_kaltenbrunn #herr_von_kreuzweg #fraeulein_karoline">Fräulein Karoline. Herr von Kreuzweg. Herr von Kaltenbrunn.</stage>
           <sp who="#herr_von_kaltenbrunn">
             <speaker>HERR VON KALTENBRUNN.</speaker>
             <p>O mein allerliebster Herr von Kreuzweg! tun Sie mir doch die Liebe und schicken
@@ -3589,7 +3589,7 @@
         </div>
         <div type="scene">
           <head>Sechster Auftritt</head>
-          <stage type="entrance" who="#landrat_von_ziegendorf #frau_von_tiefenborn #fraeulein_karoline">Frau von Tiefenborn. Fräulein Karoline. Herr Landrat von Ziegendorf.</stage>
+          <stage type="entrance" who="#frau_von_tiefenborn #landrat_von_ziegendorf #fraeulein_karoline">Frau von Tiefenborn. Fräulein Karoline. Herr Landrat von Ziegendorf.</stage>
           <sp who="#landrat_von_ziegendorf">
             <speaker>HERR VON ZIEGENDORF.</speaker>
             <p>Ich suche Sie allenthalben, Frau Schwester, und bin fast den ganzen Garten
@@ -5003,7 +5003,7 @@
         <head>Der fünfte Aufzug</head>
         <div type="scene">
           <head>Erster Auftritt</head>
-          <stage type="entrance" who="#landrat_von_ziegendorf #fraeulein_amalie">Fräulein Amalie. Der Landrat von Ziegendorf.</stage>
+          <stage type="entrance" who="#fraeulein_amalie #landrat_von_ziegendorf">Fräulein Amalie. Der Landrat von Ziegendorf.</stage>
           <sp who="#landrat_von_ziegendorf">
             <speaker>HERR VON ZIEGENDORF.</speaker>
             <p>Nun, Fräulein Amalie, nun freuen Sie sich! der Notarius ist schon unterwegens, und in
@@ -5204,7 +5204,7 @@
         </div>
         <div type="scene">
           <head>Zweiter Auftritt</head>
-          <stage type="entrance" who="#herr_von_kreuzweg #landrat_von_ziegendorf #fraeulein_amalie">Die Vorigen. Herr von Kreuzweg.</stage>
+          <stage type="entrance" who="#herr_von_kreuzweg #fraeulein_amalie #landrat_von_ziegendorf">Die Vorigen. Herr von Kreuzweg.</stage>
           <sp who="#landrat_von_ziegendorf">
             <speaker>HERR VON ZIEGENDORF</speaker>
             <stage>lächelnd.</stage>
@@ -5364,7 +5364,7 @@
         </div>
         <div type="scene">
           <head>Dritter Auftritt</head>
-          <stage type="entrance" who="#ein_diener #herr_von_kreuzweg #landrat_von_ziegendorf #fraeulein_amalie">Die Vorigen. Ein Diener.</stage>
+          <stage type="entrance" who="#ein_diener #herr_von_kreuzweg #fraeulein_amalie #landrat_von_ziegendorf">Die Vorigen. Ein Diener.</stage>
           <sp who="#ein_diener">
             <speaker>DER DIENER.</speaker>
             <p>Mein Herr Landrat, die Frau Oberstin läßt Eure Gnaden bitten, Sie möchten sich doch
@@ -5780,7 +5780,7 @@
         </div>
         <div type="scene">
           <head>Achter Auftritt</head>
-          <stage type="entrance" who="#ein_diener #notarius #landrat_von_ziegendorf">Es kömmt ein Diener und bringt einen Tisch, ein anderer bringt Feder, Tinte und
+          <stage type="entrance" who="#landrat_von_ziegendorf #notarius #ein_diener">Es kömmt ein Diener und bringt einen Tisch, ein anderer bringt Feder, Tinte und
             Papier und noch ein anderer zwei Lichte, hierauf kommen herein die Oberstin von
             Tiefenborn, der Landrat von Ziegendorf, Dr. Schlagbalsam, der Kapitän von Wagehals, der
             Notarius. Sie setzen sich alle. Dr. Schlagbalsam setzt sich zur Rechten der Oberstin.
@@ -6145,7 +6145,7 @@
         </div>
         <div type="scene">
           <head>Neunter Auftritt</head>
-          <stage type="entrance" who="#fraeulein_amalie #fraeulein_karoline #frau_von_tiefenborn #herr_von_kreuzweg #herr_von_kaltenbrunn #landrat_von_ziegendorf #kammerherr_von_ziegendorf">Frau von Tiefenborn. Fräulein Amalie. Fräulein Karoline. Herr Landrat von
+          <stage type="entrance" who="#kammerherr_von_ziegendorf #herr_von_kaltenbrunn #fraeulein_karoline #landrat_von_ziegendorf #fraeulein_amalie #frau_von_tiefenborn #herr_von_kreuzweg">Frau von Tiefenborn. Fräulein Amalie. Fräulein Karoline. Herr Landrat von
             Ziegendorf. Der Kammerherr von Ziegendorf. Herr von Kaltenbrunn. Herr von Kreuzweg. Dr.
             Hippokras.</stage>
           <stage>Sie stehen alle auf.</stage>
@@ -6197,7 +6197,7 @@
           </sp>
           <sp who="#herr_von_kreuzweg">
             <speaker>HERR VON KREUZWEG</speaker>
-            <stage type="entrance" who="#fraeulein_karoline">zur Fräulein Karoline.</stage>
+            <stage>zur Fräulein Karoline.</stage>
             <p>Erlauben Sie mir, mein schönstes Fräulein, daß ich mir anitzt von der Frau Oberstin
               eine gnädige Einwilligung ausbitten darf, mich durch Dero Besitz glücklich zu
               machen.</p>
@@ -6222,7 +6222,7 @@
                 Anwesenden.</stage> Kommen Sie in den Speisesaal. Die Tafel wird fertig sein, und
               ich will, daß ferner von diesen Verdrießlichkeiten nicht geredet werde und heute alles
               in meinem Hause vergnügt sei.</p>
-            <stage type="exit" who="#frau_von_tiefenborn #frau_von_tiefenborn">Sie gehen alle ab. Nachdem sie alle fort sind, sagt</stage>
+            <stage type="exit" who="#frau_von_tiefenborn">Sie gehen alle ab. Nachdem sie alle fort sind, sagt</stage>
           </sp>
           <sp who="#herr_von_kaltenbrunn">
             <speaker>HERR VON KALTENBRUNN.</speaker>

@@ -654,19 +654,19 @@
             <l>Aber in Mannskleidern und durch die vordre Tür, wenns</l>
             <l>Ihm beliebt.</l>
           </lg>
-          <stage type="entrance" who="#der_baron">Setzt sich, den Rücken gegen die Türe, und beginnt ihre Schokolade zu trinken.
+          <stage type="entrance" who="#die_lakaien #der_baron">Setzt sich, den Rücken gegen die Türe, und beginnt ihre Schokolade zu trinken.
             Octavian geht schnell gegen die kleine Türe und will hinaus. Im gleichen Augenblicke
             wird die Tür aufgerissen und Baron Ochs, den die Lakaien vergeblich abzuhalten suchen,
             tritt ein. Octavian, der mit gesenktem Kopf rasch entwischen wollte, stößt mit ihm
             zusammen.</stage>
-          <stage type="entrance" who="#der_baron">Octavian drückt sich verlegen an die Wand links von der Türe. Drei Lakaien sind
+          <stage type="entrance" who="#der_baron #die_lakaien">Octavian drückt sich verlegen an die Wand links von der Türe. Drei Lakaien sind
             gleichzeitig mit dem Baron eingetreten, stehen ratlos.</stage>
         </sp>
         <sp who="#der_baron">
           <speaker>DER BARON</speaker>
           <stage>mit Grandezza zu den Lakaien.</stage>
           <l>Selbstverständlich empfängt mich Ihre Gnaden.</l>
-          <stage type="entrance" who="#der_baron">Er geht nach vorne, die Lakaien zu seiner Linken suchen ihm den Weg zu
+          <stage type="entrance" who="#die_lakaien">Er geht nach vorne, die Lakaien zu seiner Linken suchen ihm den Weg zu
             vertreten.</stage>
           <pb n="17"/>
         </sp>
@@ -934,7 +934,7 @@
           <l>Hat Sie doch ein Biskoterl? Bleib Sie doch!</l>
           <stage>Leise.</stage>
           <l>Sie ist ein süßer Engelsschatz, ein sauberer.</l>
-          <stage type="entrance" who="#marschallin">Zur Marschallin.</stage>
+          <stage>Zur Marschallin.</stage>
           <lg>
             <l>Sind auf dem Wege zum »Weißen Roß«,</l>
             <l>wo wir logieren, heißt bis übermorgen –</l>
@@ -1532,7 +1532,7 @@
           <speaker>OCTAVIAN</speaker>
           <stage>schlägt ihm die kleine Tür vor der Nase zu.</stage>
           <l>I komm glei.</l>
-          <stage>Im gleichen Augenblick tritt eine alte Kammerfrau durch die gleiche Türe ein. Baron
+          <stage type="entrance" who="#die_lakaien">Im gleichen Augenblick tritt eine alte Kammerfrau durch die gleiche Türe ein. Baron
             zieht sich enttäuscht zurück. Zwei Lakaien <pb n="30"/> kommen von rechts herein,
             bringen einen Wandschirm aus dem Alkoven. Die Marschallin tritt hinter den Wandschirm,
             die alte Kammerfrau mit ihr. Der Frisiertisch wird vorgeschoben in die Mitte. Lakaien
@@ -1637,7 +1637,7 @@
             <l>er in unsern Herzen drin!</l>
           </lg>
           <stage type="exit" who="#drei_adelige_waisen">Gehen ab samt der Mutter.</stage>
-          <stage type="entrance" who="#drei_adelige_waisen #drei_adelige_waisen">Der Friseur tritt hastig auf, der Gehilfe stürzt ihm mit fliegenden Rockschößen
+          <stage type="entrance" who="#drei_adelige_waisen">Der Friseur tritt hastig auf, der Gehilfe stürzt ihm mit fliegenden Rockschößen
             nach. Der Friseur faßt die Marschallin ins Auge; verdüstert sich, tritt zurück; er
             studiert ihr heutiges Aussehen. Der Gehilfe indessen packt aus, am Frisiertisch. Der
             Friseur schiebt einige Personen zurück, sich Spielraum zu schaffen. Nach einer kurzen
@@ -1666,7 +1666,7 @@
             er im Arrangement des Lockenbaues fort.</stage>
           <stage>Ein Bedienter hat indessen bei der kleinen Tür den Kammerdiener des Barons, den
             Almosenier und den Jäger eingelassen.</stage>
-          <stage type="entrance" who="#der_saenger #der_saenger">Es sind drei bedenkliche Gestalten. Der Kammerdiener ist ein junger, großer Lümmel,
+          <stage type="entrance" who="#der_saenger">Es sind drei bedenkliche Gestalten. Der Kammerdiener ist ein junger, großer Lümmel,
             der dumm und frech aussieht. Er trägt unter dem Arm ein Futteral aus rotem Saffian. Der
             Almosenier ist ein verwilderter Dorfkooperator, ein vier Schuh hoher, aber stark und
             verwegen aussehender Gnom. Der Leibjäger mag, bevor er in die schlecht sitzende Livree
@@ -1785,7 +1785,7 @@
           <stage>Notar zieht sich erschrocken in die Ecke zurück.</stage>
           <stage>Marschallin winkt den Sänger zu sich, reicht ihm die Hand zum Kuß. Sänger nebst
             Flöte ziehen sich unter tiefen Verbeugungen zurück.</stage>
-          <stage type="entrance" who="#der_saenger #der_saenger #der_saenger #der_baron #der_saenger">Der Baron tut, als ob nichts geschehen wäre, winkt dem Sänger leutselig zu, tritt
+          <stage type="entrance" who="#der_saenger #der_baron">Der Baron tut, als ob nichts geschehen wäre, winkt dem Sänger leutselig zu, tritt
             dann zu seiner Dienerschaft; streicht dem Leiblakai die bäurisch in die Stirn gekämmten
             Haare hinaus; geht dann, als suchte er jemand, zur kleinen Tür, öffnet sie, spioniert
             hinaus, ärgert sich, daß die Zofe nicht zurückkommt; ärgert sich, schnüffelt gegens
@@ -1806,7 +1806,7 @@
           <speaker>MARSCHALLIN</speaker>
           <stage>über die Schulter zum Haushofmeister.</stage>
           <l>Abtreten die Leut!</l>
-          <stage type="exit" who="#marschallin">Vier Lakaien, eine Kette bildend, schieben die aufwartenden Personen zur Tür
+          <stage type="exit" who="#die_lakaien">Vier Lakaien, eine Kette bildend, schieben die aufwartenden Personen zur Tür
             hinaus, die sie dann verschließen.</stage>
           <stage>Valzacchi, hinter ihm Annina, haben sich im Rücken aller rings um die Bühne zum
             Baron hinübergeschlichen und präsentieren sich ihm mit übertriebener Devotion. Baron
@@ -2292,7 +2292,7 @@
           <speaker>MARSCHALLIN</speaker>
           <stage type="entrance" who="#marschallin">allein.</stage>
           <l>Ich hab ihn nicht einmal geküßt.</l>
-          <stage type="entrance" who="#marschallin">Sie klingelt heftig. Lakaien kommen herein von rechts.</stage>
+          <stage type="entrance" who="#die_lakaien">Sie klingelt heftig. Lakaien kommen herein von rechts.</stage>
         </sp>
         <sp who="#marschallin">
           <speaker>MARSCHALLIN.</speaker>
@@ -2302,7 +2302,7 @@
           </lg>
           <stage>Eine Pause.</stage>
           <l>Ich hab ihn fortgehn lassen und ihn nicht einmal geküßt!</l>
-          <stage type="entrance" who="#marschallin">Die Lakaien kommen zurück außer Atem.</stage>
+          <stage type="entrance" who="#die_lakaien">Die Lakaien kommen zurück außer Atem.</stage>
         </sp>
         <sp who="#erster_lakai">
           <speaker>ERSTER LAKAI.</speaker>
@@ -2513,7 +2513,7 @@
             <l>Werden sie mein' Bräutigam sein' Namen</l>
             <l>Auch so ausrufen, wenn er angefahren kommt!?</l>
           </lg>
-          <stage>Die Stimmen der Lauffer dicht unter dem Fenster: Rofrano! Rofrano! Rofrano!</stage>
+          <stage type="entrance" who="#viele_stimmen">Die Stimmen der Lauffer dicht unter dem Fenster: Rofrano! Rofrano! Rofrano!</stage>
         </sp>
         <sp who="#marianne_die_duenna">
           <speaker>MARIANNE.</speaker>
@@ -2774,7 +2774,7 @@
             <l>weil mir noch nie ein junger Kavalier ...</l>
             <l>Jetzt aber kommt mein Herr Zukünftiger.</l>
           </lg>
-          <stage type="entrance" who="#sophie #der_baron #sophie #sophie">Die Tür rückwärts geht auf. Alle drei stehen auf und treten nach rechts. Faninal
+          <stage type="entrance" who="#sophie #der_baron">Die Tür rückwärts geht auf. Alle drei stehen auf und treten nach rechts. Faninal
             führt den Baron zeremoniös über die Schwelle und auf Sophie zu, indem er ihm den
             Vortritt läßt. Die Lerchenausche Livree folgt auf Schritt und Tritt: zuerst der
             Almosenier mit dem Sohn und Leibkammerdiener. Dann folgt der Leibjäger mit einem
@@ -3413,7 +3413,7 @@
         </sp>
         <sp who="#octavian">
           <speaker>OCTAVIAN</speaker>
-          <stage type="entrance" who="#der_baron">einen Schritt auf den Baron zu.</stage>
+          <stage>einen Schritt auf den Baron zu.</stage>
           <lg>
             <l>Eur Liebden muß ich halt vermelden,</l>
             <l>daß sich in Seiner Angelegenheit</l>
@@ -3498,7 +3498,7 @@
           <speaker>DER BARON</speaker>
           <stage>gemütlich.</stage>
           <l>Sei Er da außer Sorg. Wird schon lernen mich mögen.</l>
-          <stage type="entrance" who="#sophie">Auf Sophie zu.</stage>
+          <stage>Auf Sophie zu.</stage>
           <lg>
             <l>Komm Sie jetzt da hinein: wird gleich an Ihrer sein,</l>
             <l>die Unterschrift zu geben.</l>
@@ -3854,7 +3854,7 @@
             <l>ein Schock baumlange Lackeln, daß mir solche Schand</l>
             <l>passieren muß in meinem neuchen Stadtpalais!</l>
           </lg>
-          <stage type="entrance" who="#octavian">Auf Octavian zu.</stage>
+          <stage>Auf Octavian zu.</stage>
           <l>Hätt wohl von Euer Liebden eines andern Anstands mich versehn!</l>
         </sp>
         <sp who="#der_baron">
@@ -4113,7 +4113,7 @@
             <l>Ein Kloster ist zu gut! Sei Er nur außer Sorg.</l>
             <l>Weiß was ich Satisfaktion Ihm schuldig bin.</l>
           </lg>
-          <stage type="exit" who="#faninal #faninal">Stürzt ab. Desgleichen gehen Duenna und Mägde ab.</stage>
+          <stage type="exit" who="#faninal">Stürzt ab. Desgleichen gehen Duenna und Mägde ab.</stage>
           <stage>Die beiden Italiener sind schon während des obigen fortgeschlichen.</stage>
         </sp>
         <sp who="#der_baron">
@@ -4283,7 +4283,7 @@
           Daneben links ein Büfett. Rechts rückwärts ein blindes Fenster, vorne links ein Fenster
           auf die Gasse. Armleuchter mit Kerzen auf den Seitentischen sowie an den Wänden. Es brennt
           nur je eine Kerze in den Leuchtern auf den Seitentischen. Das Zimmer halbdunkel.</stage>
-        <stage type="entrance" who="#octavian #annina #valzacchi">Annina steht da, als Dame in Trauer gekleidet. Valzacchi richtet Annina den Schleier,
+        <stage type="entrance" who="#octavian #valzacchi #annina">Annina steht da, als Dame in Trauer gekleidet. Valzacchi richtet Annina den Schleier,
           zupft da und dort das Kleid zurecht, tritt zurück, mustert sie, zieht einen Crayon aus der
           Tasche, untermalt ihr die Augen. Die Türe rechts wird vorsichtig geöffnet, ein Kopf
           erscheint, verschwindet wieder, dann kommt eine nicht ganz unbedenklich aussehende, aber
@@ -4370,7 +4370,7 @@
           <l>Ein blindes Fenster nur.</l>
           <stage>Verneigt sich.</stage>
           <l>Darf aufgetragen werdn?</l>
-          <stage>Alle fünf Kellner wollen abeilen.</stage>
+          <stage type="entrance" who="#die_kellner">Alle fünf Kellner wollen abeilen.</stage>
         </sp>
         <sp who="#der_baron">
           <speaker>DER BARON.</speaker>
@@ -4645,7 +4645,7 @@
         </sp>
         <sp who="#annina">
           <speaker>ANNINA</speaker>
-          <stage type="entrance" who="#wirt">gefolgt von dem Intriganten, der sie scheinbar abzuhalten sucht, vom Wirt und von
+          <stage type="entrance" who="#wirt #die_kellner">gefolgt von dem Intriganten, der sie scheinbar abzuhalten sucht, vom Wirt und von
             drei Kellnern, stürzt zur Mitteltür herein; sie bedient sich des böhmisch-deutschen
             Akzents, aber gebildeter Sprechweise.</stage>
           <lg>
@@ -4745,7 +4745,7 @@
         <sp who="#annina">
           <speaker>ANNINA.</speaker>
           <l>Kinder! herein! und hebts die Hände auf zu ihm!</l>
-          <stage type="entrance" who="#der_baron #annina">Vier Kinder zwischen vier und zehn Jahren stürzen herein und auf Anninas Wink auf
+          <stage type="entrance" who="#die_kinder #der_baron #annina">Vier Kinder zwischen vier und zehn Jahren stürzen herein und auf Anninas Wink auf
             den Baron zu.</stage>
         </sp>
         <sp who="#die_kinder">
@@ -4979,7 +4979,7 @@
           <speaker>DER BARON</speaker>
           <stage>außer sich.</stage>
           <l>Das ist doch stark, wällischer Bruder, falscher!</l>
-          <stage type="exit" who="#der_baron #der_baron">Geht mit erhobener Linken auf ihn los. [Leiblakei ist sehr betreten über die
+          <stage type="exit" who="#der_baron">Geht mit erhobener Linken auf ihn los. [Leiblakei ist sehr betreten über die
             Situation. Jetzt scheint er einen rettenden Einfall zu haben und stürzt plötzlich zur
             Mitteltür fort, ab.]</stage>
           <pb n="85"/>
@@ -5096,7 +5096,7 @@
         <sp who="#faninal">
           <speaker>FANINAL.</speaker>
           <l>Zur Stell! Was wird von mir gewünscht?</l>
-          <stage type="entrance" who="#der_baron">Auf den Baron zu.</stage>
+          <stage>Auf den Baron zu.</stage>
           <lg>
             <l>Wie sieht Er aus?</l>
             <l>War mir vermutend nicht, zu dieser Stunde</l>
@@ -5361,7 +5361,7 @@
           <stage>Sophie ist angstvoll um ihn bemüht. Wirt springt gleichfalls hinzu. Sie nehmen ihn
             auf und tragen ihn ins Nebenzimmer. Mehrere Kellner, den Weg weisend, die Tür öffnend,
             voran.</stage>
-          <stage type="entrance" who="#sophie #wirt #faninal">Baron wird in diesem Augenblick seiner Perücke ansichtig, die wie durch Zauberhand
+          <stage type="entrance" who="#sophie #wirt #die_kellner #faninal">Baron wird in diesem Augenblick seiner Perücke ansichtig, die wie durch Zauberhand
             wieder zum Vorschein gekommen ist; stürzt darauf los, stülpt sie sich auf und gibt ihr
             den richtigen Sitz. Mit dieser Veränderung gewinnt er seine Haltung so ziemlich wieder,
             begnügt sich aber, Annina und den Kindern, deren Gegenwart ihm trotz allem nicht geheuer
@@ -5372,7 +5372,7 @@
         </sp>
         <sp who="#der_baron">
           <speaker>DER BARON</speaker>
-          <stage type="entrance" who="#kommissarius">nunmehr mit dem alten Selbstgefühl auf den Kommissarius zu.</stage>
+          <stage>nunmehr mit dem alten Selbstgefühl auf den Kommissarius zu.</stage>
           <l>Sind nunmehr wohl im klaren. Ich zahl, ich geh!</l>
           <stage>Zu Octavian.</stage>
           <l>Ich führ Sie jetzt nach Haus.</l>
@@ -5520,7 +5520,7 @@
             sich mit dem Rücken gegen die Türe, ist zugleich durch verbindliche Gebärden gegen die
             Marschallin bestrebt, seinem Gehaben den Schein völliger Unbefangenheit zu
             geben.</stage>
-          <stage type="entrance" who="#der_baron #marschallin">Marschallin kommt gegen rechts, mit zuwartender Miene den Baron anblickend.</stage>
+          <stage type="entrance" who="#marschallin #der_baron">Marschallin kommt gegen rechts, mit zuwartender Miene den Baron anblickend.</stage>
           <stage type="entrance" who="#der_baron">Die Türe rechts wird mit Kraft geöffnet, so daß der Baron wütend zurückzutreten
             genötigt ist.</stage>
         </sp>
@@ -5658,7 +5658,7 @@
         </sp>
         <sp who="#der_baron">
           <speaker>DER BARON</speaker>
-          <stage type="entrance" who="#marschallin #sophie">zwischen Sophie und der Marschallin stehend.</stage>
+          <stage type="entrance" who="#sophie #marschallin">zwischen Sophie und der Marschallin stehend.</stage>
           <l>Bin gar nichts willens!</l>
         </sp>
         <sp who="#marschallin">
@@ -5804,7 +5804,7 @@
           <stage>Baron findet sich durchaus nicht in diese Wendung, rollt verlegen und aufgebracht
             die Augen.</stage>
           <stage type="entrance" who="#sophie">In diesem Augenblick kommt der Mann aus der Falltür hervor.</stage>
-          <stage type="entrance" who="#der_hausknecht #wirt #valzacchi">Von rechts tritt Valzacchi ein, die Verdächtigen in bescheidener Haltung hinter
+          <stage type="entrance" who="#wirt #die_kutscher #der_hausknecht #die_musikanten #die_kellner #valzacchi">Von rechts tritt Valzacchi ein, die Verdächtigen in bescheidener Haltung hinter
             ihm. Annina nimmt Witwenhaube und Schleier ab, wischt sich die Schminke weg und zeigt
             ihr gewöhnliches Gesicht. Dies alles zu immer gesteigertem Staunen des Barons. Der Wirt,
             eine lange Rechnung in der Hand, tritt zur Mitteltüre herein, hinter ihm Kellner,
@@ -5815,7 +5815,7 @@
           <stage>wie er sie alle erblickt, gibt sein Spiel verloren. Ruft schnell
             entschlossen.</stage>
           <l>Leupold, wir gehen!</l>
-          <stage type="entrance" who="#der_baron">Macht der Marschallin ein tiefes, aber zorniges Kompliment. Leiblakai ergreift
+          <stage type="entrance" who="#die_kinder #der_baron">Macht der Marschallin ein tiefes, aber zorniges Kompliment. Leiblakai ergreift
             einen Leuchter vom Tisch und will seinem Herrn voran. Annina stellt sich frech dem Baron
             in den Weg. Die Kinder kommen dem Baron unter die Füße. Er schlägt mit dem Hut unter
             sie.</stage>
@@ -6017,7 +6017,7 @@
           <speaker>OCTAVIAN</speaker>
           <stage>zu Sophie.</stage>
           <l>Bleib Sie um alles hier.</l>
-          <stage type="entrance" who="#marschallin">Zur Marschallin.</stage>
+          <stage>Zur Marschallin.</stage>
           <l>Wie, hat Sie was gesagt?</l>
         </sp>
         <sp who="#sophie">
@@ -6121,7 +6121,7 @@
         </sp>
         <sp who="#octavian">
           <speaker>OCTAVIAN</speaker>
-          <stage type="entrance" who="#marschallin #sophie">zugleich mit der Marschallin und Sophie, erst vor sich, dann Aug in Aug mit
+          <stage type="entrance" who="#sophie #marschallin">zugleich mit der Marschallin und Sophie, erst vor sich, dann Aug in Aug mit
             Sophie.</stage>
           <lg>
             <l>Es ist was kommen und ist was geschehen.</l>
@@ -6136,7 +6136,7 @@
         </sp>
         <sp who="#sophie">
           <speaker>SOPHIE</speaker>
-          <stage type="entrance" who="#marschallin #octavian">zugleich mit der Marschallin und Octavian, erst vor sich, dann Aug in Aug.</stage>
+          <stage type="entrance" who="#octavian #marschallin">zugleich mit der Marschallin und Octavian, erst vor sich, dann Aug in Aug.</stage>
           <lg>
             <l>Mir ist wie in der Kirchn, heilig ist mir und so bang</l>
             <l>und doch ist mir unheilig auch! Ich weiß nicht, wie mir ist.</l>
@@ -6222,7 +6222,7 @@
             <l>beieinand für alle Zeit</l>
             <l>und Ewigkeit!</l>
           </lg>
-          <stage type="exit" who="#sophie #sophie #sophie">Sie sinkt an ihn hin, er küßt sie schnell. Ihr fällt, ohne daß sie es merkt, ihr
+          <stage type="exit" who="#sophie">Sie sinkt an ihn hin, er küßt sie schnell. Ihr fällt, ohne daß sie es merkt, ihr
             Taschentuch aus der Hand. Dann laufen sie Hand in Hand hinaus. Die Bühne bleibt leer,
             dann geht nochmals die Mitteltür auf. Herein kommt der kleine Neger mit einer Kerze in
             der Hand. Sucht das Taschentuch, findet es, hebt es auf, trippelt hinaus.</stage>

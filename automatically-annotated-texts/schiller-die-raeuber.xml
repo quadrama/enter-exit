@@ -1038,7 +1038,7 @@
               kleinsten Umstand verschwiegen, und wo Aufrichtigkeit ist, ist auch Mitleid und Hilfe.
               Laß uns Abschied nehmen, Moritz. Wir sehen uns heut, und nie mehr. Die Post ist
               angelangt. Die Verzeihung meines Vaters ist schon innerhalb dieser Stadtmauren.</p>
-            <stage type="entrance" who="#grimm #razmann #schweizer #roller #schufterle">Schweizer, Grimm, Roller, Schufterle, Razmann treten auf.</stage>
+            <stage type="entrance" who="#schufterle #grimm #schweizer #razmann #roller">Schweizer, Grimm, Roller, Schufterle, Razmann treten auf.</stage>
           </sp>
           <sp who="#roller">
             <speaker>ROLLER.</speaker>
@@ -2730,7 +2730,7 @@
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Die böhmischen Wälder.</stage>
-          <stage type="entrance" who="#ein_raeuber #razmann #spiegelberg">Spiegelberg, Razmann, Räuberhaufen.</stage>
+          <stage type="entrance" who="#spiegelberg #ein_raeuber #razmann">Spiegelberg, Razmann, Räuberhaufen.</stage>
           <sp who="#razmann">
             <speaker>RAZMANN.</speaker>
             <p>Bist da? bists wirklich? So laß dich doch zu Brei zusammendrucken, lieber
@@ -3093,7 +3093,7 @@
             <speaker>RAZMANN.</speaker>
             <p>Roller! Schweizer! Blitz, Donner, Hagel und Wetter! <stage>Fliegen ihm
                 entgegen.</stage></p>
-            <stage type="entrance" who="#grimm #karl_von_moor #schweizer #ein_raeuber #roller #schufterle">Räuber Moor zu Pferd, Schweizer, Roller, Grimm, Schufterle, Räubertrupp mit Kot
+            <stage type="entrance" who="#ein_raeuber #karl_von_moor #schufterle #grimm #schweizer #roller">Räuber Moor zu Pferd, Schweizer, Roller, Grimm, Schufterle, Räubertrupp mit Kot
               und Staub bedeckt, treten auf.</stage>
           </sp>
           <sp who="#karl_von_moor">
@@ -4565,7 +4565,7 @@
         <div type="scene">
           <head>Erste Szene</head>
           <stage>Ländliche Gegend um das Moorische Schloß.</stage>
-          <stage type="entrance" who="#ein_raeuber #karl_von_moor #kosinsky">Räuber Moor, Kosinsky in der Ferne.</stage>
+          <stage type="entrance" who="#karl_von_moor #kosinsky #ein_raeuber">Räuber Moor, Kosinsky in der Ferne.</stage>
           <sp who="#karl_von_moor">
             <speaker>MOOR.</speaker>
             <p>Geh voran, und melde mich. Du weißt doch noch alles, was du sprechen mußt?</p>
@@ -4614,7 +4614,7 @@
         </div>
         <div type="scene">
           <head>Zweite Szene</head>
-          <stage type="entrance" who="#ein_raeuber #karl_von_moor #amalia">Galerie im Schloß. Räuber Moor, Amalia treten auf.</stage>
+          <stage type="entrance" who="#karl_von_moor #amalia #ein_raeuber">Galerie im Schloß. Räuber Moor, Amalia treten auf.</stage>
           <sp who="#amalia">
             <speaker>AMALIA.</speaker>
             <p>Und getrauten Sie sich wohl, sein Bildnis unter diesen Gemälden zu erkennen?</p>
@@ -5061,7 +5061,7 @@
         <div type="scene">
           <head>Dritte Szene</head>
           <stage>Andres Zimmer im Schloß.</stage>
-          <stage type="entrance" who="#ein_raeuber #karl_von_moor #daniel">Räuber Moor von der einen Seite, Daniel von der andern.</stage>
+          <stage type="entrance" who="#karl_von_moor #daniel #ein_raeuber">Räuber Moor von der einen Seite, Daniel von der andern.</stage>
           <sp who="#karl_von_moor">
             <speaker>MOOR</speaker>
             <stage>hastig.</stage>
@@ -7134,7 +7134,7 @@
             <stage>froh emporhüpfend.</stage>
             <p>Habe Dank, Lenker der Dinge – Umarmet mich, meine Kinder – Erbarmung sei von nun an
               die Losung – Nun wär auch das überstanden – Alles überstanden.</p>
-            <stage type="entrance" who="#amalia #ein_raeuber">Neue Räuber. Amalia.</stage>
+            <stage type="entrance" who="#amalia #die_raeuber #ein_raeuber">Neue Räuber. Amalia.</stage>
           </sp>
           <sp who="#die_raeuber">
             <speaker>RÄUBER.</speaker>
