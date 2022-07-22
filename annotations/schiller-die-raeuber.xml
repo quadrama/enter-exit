@@ -6265,7 +6265,7 @@
           </sp>
           <sp who="#franz_von_moor">
             <speaker>FRANZ.</speaker>
-            <p>Schläfer? Wer heißt euch schlafen? Fort, zünde Licht an! <stage type="exit entrance" who="#daniel #bedienter_5-1a">Daniel ab, es kommt
+            <p>Schläfer? Wer heißt euch schlafen? Fort, zünde Licht an! <stage type="exit" who="#daniel">Daniel ab,</stage><stage type="entrance" who="#bedienter_5-1a">es kommt
                 ein andrer Bedienter.</stage> Es soll niemand schlafen <pb n="598"/> in dieser
               Stunde. Hörst du? Alles soll auf sein – in Waffen – alle Gewehre geladen – Sahst du
               sie dort den Bogengang hinschweben?</p>
